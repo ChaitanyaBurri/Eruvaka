@@ -1,0 +1,2324 @@
+Store_Id,Store_Name,SE_ID,Building_ID,BT_ID,Outlet_ID
+SH01,Diamond Bakery,SE01,B01,B001,OTL02
+SH02,Srinivas Kirana General Store,SE01,B02,B002,OTL22
+SH03,Seven Level Bakery,SE01,B01,B001,OTL02
+SH04,Sri Sai Baba Kirana General Store,SE01,B02,B002,OTL22
+SH05,Krishna Medical General Store,SE01,B02,B003,OTL22
+SH06,Shagun Kirana General Store,SE01,B02,B002,OTL22
+SH07,Bhagua Laxmi Kirana General Store,SE01,B02,B002,OTL02
+SH08,Sai Baba Kirana General Store,SE01,B03,B002,OTL09
+SH09,Sai Little Super Basket,SE01,B01,B002,OTL02
+SH10,Om Sai Laxmi Kirana General Store,SE01,B02,B002,OTL22
+SH11,Sri Laxmi Narasimha Kirana General Store,SE01,B02,B002,OTL22
+SH12,Ruby Frozen Foods,SE02,B04,B004,OTL02
+SH13,Heritage Fresh ,SE03,B05,B005,OTL01
+SH14,Bhagya Lakshmi K G S,SE03,B06,B002,OTL05
+SH15,G Mart ,SE03,B07,B002,OTL02
+SH16,Om Provision Store,SE03,B08,B002,OTL22
+SH17,Jai Matadi Kirana General Stores,SE04,B09,B002,OTL02
+SH18,Tulasi Kirana General Stores,SE05,B10,B002,OTL02
+SH19,Srinidhi Traders,SE05,B11,B002,OTL02
+SH20,Meenakshi Kirana General Stores,SE05,B12,B002,OTL02
+SH21,Sarada Kirana General Stores,SE05,B13,B002,OTL01
+SH22,Brown Bear ,SE05,B14,B001,OTL01
+SH23,Lassi N Cafe,SE05,B13,B006,OTL01
+SH24,Harideep Kirana,SE05,B15,B002,OTL02
+SH25,Gokul Mitai Vatika,SE05,B14,B001,OTL01
+SH26,Sheton Bakery,SE05,B16,B001,OTL01
+SH27,Polimeraas,SE05,B12,B007,OTL02
+SH28,S V Kirana General Stores,SE05,B17,B002,OTL02
+SH29,Rakesh Jain Kirana General Stores,SE05,B18,B002,OTL02
+SH30,Jagadiesh Kirana General Stores,SE05,B19,B002,OTL02
+SH31,Rb Kirana General Stores,SE05,B20,B002,OTL02
+SH32,Sri Linoy Cake House Bakery,SE05,B21,B001,OTL01
+SH33,Vijaya Laxmi Traders,SE05,B22,B006,OTL02
+SH34,Ayyappa Reddy Pure Ghee Sweets,SE05,B14,B008,OTL01
+SH35,Sri Siddivinayaka Traders,SE05,B22,B002,OTL02
+SH36,Venkateshwara Kirana General Stores,SE05,B12,B002,OTL05
+SH37,Balaji Provision Stores,SE05,B23,B002,OTL01
+SH38,Sri Balaji Prithviraj Mithai Bandar,SE05,B24,B008,OTL07
+SH39,Md Shareef Kirana General Stores,SE05,B10,B002,OTL02
+SH40,Sri Balaji Mitai Wala,SE05,B25,B008,OTL02
+SH41,Pallavi Bakery,SE05,B23,B001,OTL02
+SH42,Sai Chennai Hot Puffs,SE05,B10,B001,OTL02
+SH43,Aarushu Kirana General Stores,SE05,B20,B002,OTL02
+SH44,Svr Mediclas,SE05,B26,B003,OTL22
+SH45,Jai Bhavani Bakery,SE05,B27,B001,OTL02
+SH46,Baskin Robbins,SE05,B14,B004,OTL01
+SH47,Sri Srini Vasa Kirana Generl Store,SE05,B28,B002,OTL01
+SH48,Ragini Stores,SE05,B20,B002,OTL02
+SH49,Saleem And Sons Kirana General Stores,SE05,B27,B002,OTL02
+SH50,Laxm Kiranam ,SE05,B28,B002,OTL01
+SH51,Reddy Ice Cream Parlour,SE05,B12,B004,OTL02
+SH52,Karthikeya Mini Market,SE05,B17,B009,OTL02
+SH53,Sri Laxmi Kirana General Stores,SE05,B29,B002,OTL02
+SH54,Venkys Banglore Iyengars Bakery,SE05,B30,B001,OTL01
+SH55,N K Bakery,SE05,B31,B001,OTL02
+SH56,Laxmi Venkata Ramana Kirana General Stores,SE05,B31,B002,OTL02
+SH57,Om Sri Sai Ram Medicals,SE05,B23,B003,OTL02
+SH58,Agra Sweets,SE05,B32,B008,OTL02
+SH59,Siri Fresh Super Market,SE05,B12,B007,OTL02
+SH60,Daily Needs Kirana General Stores,SE05,B32,B002,OTL02
+SH61,Laxmi Narasimha Swamy Kirana General Stores,SE05,B13,B002,OTL01
+SH62,Ram Dev Kirana And General,SE05,B33,B002,OTL02
+SH63,Raj Stores,SE05,B34,B002,OTL02
+SH64,Dhanalaxmi Kirana And General Stores,SE05,B35,B002,OTL18
+SH65,Jaya Laxmi Sai Kirana,SE05,B36,B002,OTL18
+SH66,Balaji Prithviraj Mitai Bandar,SE05,B37,B008,OTL01
+SH67,Veerabadra Kirana General Stores,SE05,B10,B002,OTL02
+SH68,Sri Ambika Medical General Stores,SE05,B37,B003,OTL01
+SH69,Sri Kalki Bhavani Kirana General Store,SE05,B38,B002,OTL15
+SH70,Manoj Kirana General Store,SE05,B39,B002,OTL18
+SH71,Bakers Basket,SE05,B40,B001,OTL01
+SH72,New Red Rose Bakers,SE05,B41,B001,OTL18
+SH73,Anvitha Kirana General Store,SE05,B42,B002,OTL02
+SH74,Sri Hanuman Kirana General Store,SE05,B43,B002,OTL02
+SH75,Mp Kirana General Store,SE05,B44,B002,OTL18
+SH76,Shanoor Kirana General Store,SE05,B45,B002,OTL22
+SH77,Venkateshwara Kirana General Store,SE05,B46,B002,OTL05
+SH78,Ayub Kirana General Store,SE05,B45,B002,OTL22
+SH79,Sri Venkateshwara Kirana General Store,SE05,B47,B002,OTL02
+SH80,Naaz Bakery,SE05,B48,B001,OTL18
+SH81,Sri Balaji Pure Ghee Sweets,SE05,B49,B008,OTL18
+SH82,Vegneswara Medical General Store,SE05,B50,B003,OTL22
+SH83,Sri Venkateshwara Bakers,SE05,B51,B001,OTL09
+SH84,Labbaik Sulemani Hotel,SE05,B47,B001,OTL02
+SH85,Vamshi Medical General Store,SE05,B52,B003,OTL18
+SH86,Deccan Kirana General Store,SE05,B44,B002,OTL18
+SH87,Srinidi Kirana General Store,SE05,B53,B002,OTL15
+SH88,Sai Nikil Kirana General Store,SE05,B54,B002,OTL15
+SH89,Laxmi Narasimha Kirana General Store,SE05,B55,B002,OTL13
+SH90,Agra Sweet House,SE05,B56,B008,OTL22
+SH91,Sai Sree Kirana General Store,SE05,B57,B002,OTL22
+SH92,Bal Reddy Sweet Shop,SE05,B38,B008,OTL05
+SH93,Swathi Stores,SE05,B44,B002,OTL18
+SH94,Fizan Kirana General Store,SE05,B38,B002,OTL22
+SH95,Jai Bhavani Kirana General Store,SE05,B38,B002,OTL22
+SH96,Sana Kirana General Store,SE05,B38,B002,OTL02
+SH97,Uma Maheswari Kirana General Store,SE05,B58,B002,OTL02
+SH98,Best Bakery ,SE05,B59,B001,OTL18
+SH99,Care Medical ,SE05,B52,B003,OTL09
+SH100,Health Care Medical General Store,SE05,B37,B003,OTL22
+SH101,Sri Srinivasa Kirana General Store,SE05,B60,B002,OTL18
+SH102,Balaji Heeralal Mithai Bhandar,SE05,B52,B008,OTL18
+SH103,Mohd Ishaq Kirana General Store,SE05,B61,B002,OTL02
+SH104,Raghava Kirana General Store,SE05,B38,B002,OTL02
+SH105,Bhavani Kirana General Store,SE05,B62,B002,OTL09
+SH106,Saipoorna Kirana General Store,SE05,B63,B002,OTL22
+SH107,Shiva Bhavani Kirana General Store,SE05,B64,B002,OTL18
+SH108,Fazal Kirana General Store,SE05,B65,B002,OTL22
+SH109,Billal Dairy Ice Cram Parlor,SE05,B66,B004,OTL09
+SH110,Shobha Kirana General Store,SE05,B61,B002,OTL22
+SH111,Al Huda Bakery,SE05,B66,B001,OTL22
+SH112,Ramalingeswara Kirana General Store,SE05,B38,B002,OTL02
+SH113,Jaffer Kirana General Store,SE05,B66,B002,OTL22
+SH114,Guru Raghavendra Kirana General Store,SE05,B67,B002,OTL22
+SH115,Masqati Dairy,SE05,B68,B001,OTL22
+SH116,Sarvar Kirana General Store,SE05,B69,B002,OTL02
+SH117,Reliance Smart Point,SE01,B70,B009,OTL22
+SH118,Shadab Bakery,SE01,B71,B001,OTL02
+SH119,Yadagiri Traders,SE02,B72,B002,OTL02
+SH120,Sri Laxmi Narshimha Cooldrinks,SE02,B72,B006,OTL02
+SH121,J S Bakers,SE02,B73,B001,OTL18
+SH122,Shiva Balaji Sweet House,SE02,B72,B008,OTL02
+SH123,Sonakshi Bakery,SE02,B74,B001,OTL18
+SH124,Om Sri Urukund Veeraswamy Kirana,SE02,B73,B002,OTL14
+SH125,Shiva Kirana,SE02,B75,B002,OTL05
+SH126,Shubham Kirana,SE02,B76,B002,OTL02
+SH127,Ayyppa Kirana,SE02,B77,B002,OTL02
+SH128,Parvathi Parameswara Kirana,SE02,B78,B002,OTL02
+SH129,Balaji Ramsukh Mithai Bander,SE02,B73,B008,OTL18
+SH130,Mahalaxmi Kirana,SE02,B79,B002,OTL02
+SH131,Sri Ganesh Kirana,SE02,B78,B002,OTL02
+SH132,Deemaal Supermarket,SE02,B73,B007,OTL01
+SH133,Bangloor Iyengar Bakery,SE02,B80,B001,OTL01
+SH134,Ramdev Kirana,SE02,B81,B002,OTL02
+SH135,K Chandra Sekhar Kirana,SE02,B82,B002,OTL02
+SH136,Parameswara Kirana,SE02,B81,B002,OTL02
+SH137,Siri Kirana,SE02,B81,B002,OTL02
+SH138,Sri Rama Dhani Kirana,SE02,B79,B002,OTL05
+SH139,Bhagyasree Kirana,SE02,B81,B002,OTL02
+SH140,Balaji Mangilal Kirana,SE02,B78,B002,OTL02
+SH141,Akhil Kirana,SE02,B83,B002,OTL02
+SH142,Harsha Bakery,SE02,B84,B001,OTL02
+SH143,Slj Bangloor Iyengar Bakery,SE02,B79,B001,OTL05
+SH144,Manikanta Kirana,SE02,B85,B002,OTL01
+SH145,Balaji Raju Mithai Bander,SE02,B79,B008,OTL02
+SH146,Sri Sriya Devi Kirana,SE02,B81,B002,OTL02
+SH147,Sri Bhaghavathi Kirana,SE02,B84,B002,OTL02
+SH148,Laxmi Prasanna Kirana,SE02,B81,B002,OTL02
+SH149,Sri Sai Madhu Ice Cream Parlour,SE02,B78,B004,OTL02
+SH150,Happy Bakers,SE02,B86,B001,OTL01
+SH151,Pariwar Drive ,SE06,B73,B006,OTL18
+SH152,Pariwar Cooldrinks,SE06,B73,B006,OTL18
+SH153,Silicon Valley Bakery,SE03,B87,B001,OTL02
+SH154,Bake Point ,SE03,B88,B001,OTL10
+SH155,Ridhi Enterprises,SE03,B89,B009,OTL05
+SH156,Raghavis Kiran General Mart,SE07,B90,B002,OTL02
+SH157,Gopal Provision Kirana Stores ,SE08,B91,B002,OTL22
+SH158,Bake N Joy Bakery,SE08,B91,B001,OTL01
+SH159,Jaya Super Market,SE08,B91,B007,OTL01
+SH160,Tips Topsy Food Hub,SE08,B92,B006,OTL18
+SH161,Bon A Petit Frush Juice N Drinks ,SE08,B92,B006,OTL18
+SH162,Shalimar Sweets,SE08,B92,B008,OTL19
+SH163,Muskan General Store,SE08,B91,B009,OTL02
+SH164,Wow Super Market,SE08,B93,B007,OTL17
+SH165,Lakhani Kirana General Store,SE08,B91,B002,OTL02
+SH166,New Sri Balaji Medical General Store,SE08,B91,B003,OTL17
+SH167,Cakes Hub,SE08,B91,B001,OTL03
+SH168,Bilal Kirana General Store,SE08,B91,B002,OTL18
+SH169,Vishal Mart,SE08,B91,B002,OTL02
+SH170,Sangameshwara Kirana General Store,SE08,B91,B002,OTL02
+SH171,Sri Sai Kirana General Store,SE08,B91,B002,OTL18
+SH172,Sai Charan Kirana General Store,SE08,B91,B002,OTL18
+SH173,Ma Kirana General Store,SE08,B91,B002,OTL17
+SH174,D M Kirana General Store,SE08,B94,B002,OTL07
+SH175,Ghansham Super Market,SE08,B91,B007,OTL07
+SH176,Sri Sai Medical General Store,SE08,B91,B003,OTL03
+SH177,Cake Boyzs Bakery,SE08,B91,B001,OTL07
+SH178,Sri Balaji Traders,SE08,B91,B002,OTL01
+SH179,Heritage Fresh,SE08,B91,B007,OTL01
+SH180,Nagendra Traders,SE08,B95,B002,OTL01
+SH181,Jai Balaji Traders,SE08,B91,B002,OTL07
+SH182,Advaid Supar Mart,SE08,B91,B007,OTL05
+SH183,Balaji Rajaram Sweets,SE08,B92,B008,OTL18
+SH184,Sri Balaji Store,SE08,B91,B009,OTL05
+SH185,Haks Kirana General Store,SE08,B96,B002,OTL13
+SH186,Crystal Sweets And Bakery,SE08,B97,B001,OTL18
+SH187,Hkgnr Ice Cream And Kirana Store,SE08,B98,B004,OTL01
+SH188,Uma Ice Cream Parlour,SE08,B98,B004,OTL01
+SH189,Ibrahim Kirana,SE09,B99,B009,OTL22
+SH190,Dubai Mart,SE06,B99,B005,OTL22
+SH191,K G N Mini Mart,SE02,B100,B009,OTL02
+SH192,Mangaldeep Kirana,SE04,B101,B002,OTL02
+SH193,D S Family Restaurant And Bakery,SE04,B102,B001,OTL02
+SH194,Sri Venkateswara Mart,SE04,B103,B007,OTL01
+SH195,Sai Raghavendra Bakary,SE04,B103,B001,OTL01
+SH196,Jash Bakers,SE04,B104,B001,OTL01
+SH197,Divya Bakers,SE04,B103,B001,OTL01
+SH198,Sai Tipsy Topsy Bakery,SE04,B102,B001,OTL01
+SH199,Peoples Mart Supermarket,SE04,B103,B007,OTL18
+SH200,Mataji Kirana And General,SE04,B105,B002,OTL02
+SH201,Sri Laxmi Narshimha Kirana And General,SE04,B106,B002,OTL02
+SH202,Ganesh Kirana,SE04,B107,B002,OTL05
+SH203,Vinayaka Kirana,SE04,B108,B002,OTL02
+SH204,Pavan Kirana And General,SE04,B108,B002,OTL01
+SH205,Balaji Tanvi Mithai Bander,SE04,B103,B008,OTL01
+SH206,Balaji Kirana,SE04,B103,B002,OTL13
+SH207,Sri Sai Ram Bakers,SE04,B108,B001,OTL05
+SH208,Sagar Kirana,SE04,B103,B002,OTL05
+SH209,Shiv Shakthi Kiranz And General,SE04,B103,B002,OTL01
+SH210,Groceries Sri Venkataramana Supermarket,SE04,B108,B007,OTL18
+SH211,Shiv Bagawan Kirana,SE04,B109,B002,OTL05
+SH212,New Mayuri Kirana,SE04,B110,B002,OTL02
+SH213,Sri Sai Kirana,SE04,B111,B002,OTL05
+SH214,Gupta Kirana,SE04,B112,B002,OTL02
+SH215,Sai Laxmi Kirana,SE04,B111,B002,OTL05
+SH216,Bhavani Sweet House,SE04,B113,B008,OTL02
+SH217,Laxmi Kirana,SE04,B113,B002,OTL02
+SH218,Sri Laxmi Kirana,SE04,B113,B002,OTL02
+SH219,Sri Ramanjaneya Kirana,SE04,B114,B002,OTL02
+SH220,Likhita Bakers,SE04,B115,B001,OTL01
+SH221,Megha Kirana,SE04,B116,B002,OTL02
+SH222,Manasa Kirana,SE04,B117,B002,OTL02
+SH223,Second Home Bakers,SE04,B103,B001,OTL05
+SH224,Annapurna Traders,SE04,B118,B002,OTL02
+SH225,S R Kirana ,SE04,B119,B002,OTL02
+SH226,Nrbym Kirana,SE04,B120,B002,OTL02
+SH227,Mi Masqati Icecream Parlour,SE04,B121,B004,OTL18
+SH228,Rs Supermart,SE04,B103,B007,OTL01
+SH229,Roasty Teasty Bakers,SE04,B121,B001,OTL02
+SH230,Bharathi Milk Parlour And Kirana,SE04,B120,B002,OTL02
+SH231,B S Bakers,SE04,B103,B001,OTL18
+SH232,Kumara Swamy Kirana And General,SE04,B123,B002,OTL02
+SH233,Laxman Kirana,SE04,B120,B002,OTL02
+SH234,Bangalore Iyengar Bakery,SE04,B124,B001,OTL01
+SH235,New Healthcare Medical,SE02,B125,B003,OTL22
+SH236,Shahinsha Bakery,SE02,B126,B001,OTL03
+SH237,Adil Icecream,SE02,B126,B004,OTL05
+SH238,A1 Cooldrinks,SE02,B126,B006,OTL05
+SH239,Makka Cooldrinks,SE02,B126,B006,OTL18
+SH240,Feroz Bakery,SE02,B126,B001,OTL03
+SH241,Farooq And Sons Ice Cream Parlour,SE02,B125,B004,OTL22
+SH242,Deccan Bakers And Sweet House,SE02,B127,B001,OTL22
+SH243,Shiva Bakery,SE03,B128,B001,OTL19
+SH244,Sri Bajrang Kirana Stores,SE03,B129,B002,OTL22
+SH245,Siddivinayaka Traders ,SE03,B129,B002,OTL22
+SH246,S S P K G S,SE03,B130,B002,OTL19
+SH247,Sai Ram Bakery,SE03,B129,B001,OTL19
+SH248,Balaji Aditya Mithai Bhandar,SE03,B131,B008,OTL19
+SH249,Sai Ganesh Medical,SE03,B132,B003,OTL22
+SH250,New Gavrav Supermarket,SE03,B133,B007,OTL22
+SH251,Navya Traders ,SE03,B132,B002,OTL22
+SH252,Gita K G S,SE03,B129,B002,OTL22
+SH253,Deepa Traders,SE03,B128,B002,OTL05
+SH254,Balaji Hanuman Mithai Bhandar,SE03,B131,B008,OTL19
+SH255,Sri Kamakshi K G S,SE03,B134,B002,OTL19
+SH256,Siddarda Kiranam Genarls,SE03,B135,B002,OTL02
+SH257,Om Sri Sairam General Store,SE03,B136,B002,OTL22
+SH258,H M Bakary,SE03,B137,B001,OTL22
+SH259,Sri Balaji Bakery,SE04,B121,B001,OTL02
+SH260,Mowgly Bakery,SE04,B138,B001,OTL01
+SH261,Sri Venkateswara Bakery,SE04,B121,B001,OTL10
+SH262,Sri Delhi Mithai Wala,SE04,B102,B008,OTL01
+SH263,Sai Raghavendra Bakers,SE04,B139,B001,OTL01
+SH264,Vilok Mart,SE04,B140,B007,OTL01
+SH265,Oven Basket Bakery,SE04,B138,B001,OTL01
+SH266,Sai Raghavendra Bakery,SE04,B139,B001,OTL05
+SH267,Sri Sai Bakery,SE04,B141,B001,OTL02
+SH268,Tirumala Kirana General Store,SE04,B142,B002,OTL02
+SH269,Maqqavi Kirana General Store,SE04,B143,B002,OTL02
+SH270,Bismilla Kirana General Store,SE04,B143,B010,OTL02
+SH271,Taj Ice Cream Parlour,SE04,B143,B004,OTL02
+SH272,Sri Balaji Suraj Mithai Bandar,SE04,B144,B008,OTL01
+SH273,Mohammed Ice Cream Parlour,SE04,B143,B004,OTL02
+SH274,Royal Baker Zone,SE08,B145,B001,OTL02
+SH275,A Klas Bakery,SE08,B146,B001,OTL02
+SH276,Ratnadeep ,SE08,B147,B007,OTL02
+SH277,Balaji Grand Bazar,SE08,B148,B007,OTL05
+SH278,North East Hub,SE08,B149,B002,OTL02
+SH279,Bombay Kirana And General Store,SE08,B147,B009,OTL02
+SH280,Sri Srinivasa Kirana And General Store,SE08,B150,B002,OTL02
+SH281,Sai Vamshi Kiranam And General Stores,SE08,B151,B002,OTL02
+SH282,Sk Stationary And General,SE08,B151,B002,OTL02
+SH283,Shiva Balaji Bakery,SE08,B152,B001,OTL22
+SH284,Santosh Kirana And General Store,SE08,B153,B002,OTL02
+SH285,Shree Home Needs,SE08,B154,B002,OTL22
+SH286,Ratnadeep,SE08,B153,B007,OTL18
+SH287,Jyothi Kiranam And General Stores,SE08,B151,B002,OTL02
+SH288,S V Kirana And General Store,SE08,B155,B002,OTL02
+SH289,Sri Sai Kirana And General Store,SE08,B150,B002,OTL02
+SH290,Familia Medical,SE08,B156,B003,OTL01
+SH291,Shree Satya Kirana And General Store,SE08,B152,B002,OTL22
+SH292,Sarvi Bakers Restaurent,SE08,B153,B001,OTL18
+SH293,Om Varala Sai Kirana And General Store,SE08,B157,B002,OTL22
+SH294,Sai Market,SE08,B158,B002,OTL07
+SH295,Yella Dhanraj Kirana And General Store,SE08,B152,B002,OTL22
+SH296,Ar Kiranam And General Stores,SE08,B151,B002,OTL02
+SH297,Krishna Kirana,SE08,B153,B002,OTL02
+SH298,Anand Goud Kirana And General Store,SE08,B157,B002,OTL22
+SH299,Srinivasa Kirana And General Store,SE08,B157,B002,OTL15
+SH300,Sana Pharmacy,SE08,B153,B003,OTL18
+SH301,Maa Vishnu Traders,SE08,B98,B002,OTL02
+SH302,Sri Srinivasa Medical And General Stores,SE08,B152,B003,OTL15
+SH303,Sri Marudhar Stores,SE08,B152,B002,OTL22
+SH304,Om Sai Jai Sai Kirana And General Store,SE08,B152,B002,OTL22
+SH305,Unique Kirana And General Store,SE08,B159,B002,OTL02
+SH306,Sai Srinivash Kirana General Store,SE08,B98,B002,OTL02
+SH307,Grand Naa Bakery,SE08,B159,B001,OTL02
+SH308,Keerthi Kirana And General Store,SE08,B152,B002,OTL22
+SH309,Safa Marwa Kirana General Store,SE08,B160,B002,OTL22
+SH310,Shri Balaji Mithaiwala,SE01,B161,B008,OTL01
+SH311,Agra Sweets Chat And Namkeen,SE01,B162,B008,OTL01
+SH312,Vigneshwara Agencies Medical General Store ,SE01,B163,B003,OTL02
+SH313,Baba Keiran General,SE01,B161,B009,OTL01
+SH314,Sri Veerabadra Kirana General Stores,SE01,B164,B002,OTL02
+SH315,Jyothi Kirana General Stores,SE01,B161,B002,OTL02
+SH316,American Bakers And Confectionery,SE01,B166,B001,OTL02
+SH317,Kirana Ghar Liberty,SE01,B164,B007,OTL02
+SH318,Banglore Iyengar L J Bakery,SE01,B167,B001,OTL01
+SH319,Siri Bakery,SE01,B164,B001,OTL01
+SH320,Sujay Rice And Milk Parlour,SE01,B168,B002,OTL01
+SH321,Shudhiva Fruits Vegetables,SE01,B164,B007,OTL02
+SH322,Amul Ice Cream Parlour,SE01,B164,B004,OTL01
+SH323,R K Bakers,SE01,B164,B001,OTL01
+SH324,The Oven Bakery,SE01,B169,B001,OTL01
+SH325,Siddi Vinayaka Kirana General Stores,SE01,B171,B002,OTL05
+SH326,Arjun Patei,SE01,B172,B009,OTL01
+SH327,Sai Kiranam,SE01,B173,B002,OTL02
+SH328,Dilip Cooldrinks,SE06,B174,B006,OTL18
+SH329,Karachi Bakery,SE06,B174,B001,OTL09
+SH330,S L J Bangalore Iyengar Bakery,SE03,B175,B001,OTL01
+SH331,Ravindra Kirana Traders,SE03,B176,B009,OTL05
+SH332,Green Mini Supper Market,SE03,B177,B007,OTL02
+SH333,Slv Banglore Iynger Bakery,SE05,B178,B001,OTL01
+SH334,Arihanth Super Bazar,SE05,B179,B007,OTL06
+SH335,Sushma Kirana And General Store,SE05,B180,B002,OTL02
+SH336,Anirudh Provision Store,SE05,B181,B002,OTL01
+SH337,Beruji Kgs,SE05,B182,B009,OTL02
+SH338,Krishna Medical And General Store,SE05,B183,B003,OTL02
+SH339,Pavan Kgs,SE05,B179,B002,OTL13
+SH340,Mana Super Market,SE05,B185,B007,OTL05
+SH341,Jaya Lakshmi Super Market,SE05,B186,B007,OTL05
+SH342,Yours Universe Bakers And Cakes,SE05,B187,B001,OTL01
+SH343,Sri Balaji Laxmi Mithai Bandar,SE05,B188,B008,OTL01
+SH344,Sri Sai Bekary,SE05,B188,B001,OTL01
+SH345,Vasavi Kirana And General Store,SE05,B189,B002,OTL02
+SH346,Omega Bakers,SE05,B188,B001,OTL01
+SH347,Tirumala Kgs,SE05,B190,B009,OTL02
+SH348,N Joy Bakery,SE05,B191,B001,OTL22
+SH349,Shivam Bekary,SE05,B192,B001,OTL01
+SH350,Sri Balaji Navarathan Mithai Bandar,SE05,B188,B008,OTL01
+SH351,Jai Sri Ram Bakery,SE05,B193,B001,OTL02
+SH352,Srinivasa Bakery,SE05,B194,B001,OTL02
+SH353,Ushodaya Super Market,SE05,B195,B007,OTL10
+SH354,Jai Ganesh Kirana And General Store,SE05,B196,B002,OTL02
+SH355,S V R Super Market,SE05,B197,B007,OTL05
+SH356,Sri Ganesh Kirana General Store,SE05,B198,B002,OTL05
+SH357,Sri Sai Trades Kirana Shop And Pooja Store,SE05,B199,B009,OTL02
+SH358,Sri Sai Vashanavi Super Market,SE05,B192,B007,OTL02
+SH359,Rajan Bakery,SE05,B200,B001,OTL02
+SH360,Fresh Basket Super Market,SE05,B201,B007,OTL05
+SH361,Sri Balaji Prasharam Mithai Shop,SE05,B192,B008,OTL02
+SH362,Sai Ram Sweets And Bakery,SE05,B202,B001,OTL02
+SH363,Shanker Provision Store,SE03,B204,B002,OTL02
+SH364,Sri Balaji Mithai Wala,SE03,B205,B008,OTL18
+SH365,Choice Kirana General Store,SE03,B206,B002,OTL05
+SH366,Nakoda Communications,SE03,B206,B002,OTL22
+SH367,Ghanshyam Super Market,SE03,B205,B007,OTL18
+SH368,Ruchi Banglore Bakery,SE03,B207,B001,OTL18
+SH369,Rishab Mithai Vatika,SE03,B208,B008,OTL22
+SH370,City Ice Cream Parlour,SE03,B207,B001,OTL18
+SH371,Swastik Stores,SE03,B209,B002,OTL18
+SH372,Jai Somnath Sweet House,SE03,B210,B008,OTL22
+SH373,Delicious Bakery,SE03,B211,B001,OTL05
+SH374,Prakash Provision Store,SE03,B212,B002,OTL02
+SH375,Ram Provision Center,SE03,B213,B002,OTL02
+SH376,Sri Balaji Shankar Lal Mithai Bandar,SE03,B211,B008,OTL18
+SH377,New Banglore Iyengar Bakery,SE03,B214,B001,OTL18
+SH378,Pallavi Medical General Store,SE03,B216,B003,OTL18
+SH379,Sri Manikantha Groceries,SE03,B217,B002,OTL02
+SH380,Abraham Kirana General Store,SE03,B218,B002,OTL15
+SH381,Balaji Kirana And General Store,SE03,B219,B002,OTL15
+SH382,Shyam Provision Stores,SE03,B220,B002,OTL15
+SH383,Lalitha Parmaheswari Kirana And General Store,SE03,B221,B002,OTL15
+SH384,Sri Mathaji Wholesale And Retail,SE03,B221,B002,OTL15
+SH385,Tharuni Super Market,SE03,B207,B007,OTL21
+SH386,Bhagylaxmi Kiranam Wholesale,SE04,B222,B002,OTL02
+SH387,Spicy Bakery,SE04,B223,B001,OTL02
+SH388,Sony Bakery,SE04,B224,B001,OTL01
+SH389,New Balaji Mithai Bandar,SE04,B225,B008,OTL12
+SH390,Srinivasa Kirana General Store,SE04,B226,B002,OTL05
+SH391,Jai Bhavani Generalstore,SE04,B227,B009,OTL05
+SH392,Balaji Bharath Kirana General Store,SE04,B228,B002,OTL02
+SH393,Sri Sai Baba Kirana And Genral Store,SE09,B229,B002,OTL09
+SH394,Sri Laxmi Sai Kirana General Store,SE09,B230,B002,OTL05
+SH395,Bharath Kirana General Store,SE09,B231,B002,OTL02
+SH396,Sri Laxmi Srinivasa Kirana General Store,SE09,B232,B002,OTL02
+SH397,Ambica Kirana General Store,SE09,B233,B002,OTL02
+SH398,Sri Rama Bakery,SE09,B234,B001,OTL06
+SH399,Srikanth Kirana General Store,SE09,B235,B002,OTL05
+SH400,Sony Kirana General Store,SE09,B231,B002,OTL22
+SH401,Dhanalaxmi Kirana General Store,SE09,B236,B002,OTL02
+SH402,Sri Sai Santhosh Kirana General Store,SE09,B237,B002,OTL09
+SH403,Rajitha Kirana General Store,SE09,B238,B002,OTL02
+SH404,Shiv Shakthi Kirana General Store,SE09,B234,B002,OTL18
+SH405,Sri Balaji Kirana General Store,SE09,B235,B002,OTL02
+SH406,Banglore Iyyangar Bakery,SE09,B239,B001,OTL02
+SH407,Sri Balaji Super Mart,SE02,B240,B007,OTL02
+SH408,Ganesh Kirana General Store,SE02,B241,B002,OTL02
+SH409,Al Affroz Kirana General Store,SE02,B242,B002,OTL02
+SH410,Shah Ghouse Bakers,SE02,B243,B001,OTL02
+SH411,Shoiab Kirana General Store,SE02,B244,B002,OTL02
+SH412,Rehan Kirana General Store,SE02,B243,B002,OTL02
+SH413,Abdullah Kirana General Store,SE02,B245,B002,OTL02
+SH414,Nikhil Kirana General Store,SE02,B246,B002,OTL02
+SH415,Prashanth Kirana General Store,SE02,B242,B002,OTL02
+SH416,Al Shifa Medical Hall,SE02,B243,B003,OTL02
+SH417,Health Max,SE02,B247,B003,OTL02
+SH418,Vijaya Cool Drinks,SE02,B248,B006,OTL22
+SH419,Khaled Kirana Store,SE02,B249,B002,OTL02
+SH420,A To Z Kirana General Store,SE02,B250,B002,OTL22
+SH421,Vaani Kirana General Store,SE02,B251,B002,OTL22
+SH422,Maqqavi Ice Cream Parlour,SE02,B252,B004,OTL22
+SH423,Mashallah Kirana General Store,SE02,B253,B002,OTL02
+SH424,Sri Vishnu Kirana General Store,SE02,B254,B002,OTL02
+SH425,New Ali Traders,SE02,B255,B009,OTL22
+SH426,Harshitha Kirana General Store,SE02,B256,B002,OTL02
+SH427,Nawaz Bakers,SE02,B257,B001,OTL02
+SH428,Dawood Boghdadi Kirana General Store,SE02,B258,B002,OTL22
+SH429,S V S Kirana General Store,SE02,B259,B002,OTL02
+SH430,Asif Kirana General Store,SE02,B247,B002,OTL02
+SH431,Grand Imperial Bakers Sweets,SE02,B260,B001,OTL13
+SH432,Madina Kirana General Store,SE02,B261,B002,OTL22
+SH433,Be Happy Store,SE02,B262,B001,OTL22
+SH434,Sanju Nayak Kirana General Store,SE02,B263,B002,OTL02
+SH435,Sajid Kirana General Store,SE02,B243,B002,OTL02
+SH436,Al Wahed Bakery,SE02,B260,B001,OTL02
+SH437,Rahman Kirana General Store,SE02,B264,B002,OTL02
+SH438,Choice Ice Cream,SE02,B265,B004,OTL02
+SH439,Friends Coll Drinks,SE02,B266,B009,OTL02
+SH440,Billal Kirana General Store,SE02,B250,B002,OTL05
+SH441,Lathika Kirana General Store,SE02,B267,B002,OTL02
+SH442,Yamani Ice Cream Parlour,SE02,B262,B004,OTL09
+SH443,A K Best Food,SE02,B247,B002,OTL02
+SH444,Ak Ice Cream Parlour,SE02,B268,B004,OTL22
+SH445,Akber Cool Point,SE02,B269,B006,OTL18
+SH446,Medizone Medical General Store,SE02,B261,B003,OTL22
+SH447,Zuper Mart,SE02,B270,B002,OTL02
+SH448,Zam Zam Kirana General Store,SE02,B271,B002,OTL02
+SH449,Afzal Kirana General Store,SE02,B244,B002,OTL02
+SH450,Golden Kirana General Store,SE02,B243,B002,OTL02
+SH451,Al Azeem Kirana General Store,SE02,B272,B009,OTL22
+SH452,M Zubaidi Kirana General Store,SE02,B250,B002,OTL09
+SH453,Krishna Kirana General Store,SE02,B259,B002,OTL02
+SH454,Abaid Wahlan Kirana General Store,SE02,B250,B002,OTL02
+SH455,Al Hamed Kirana General Store,SE02,B250,B009,OTL05
+SH456,Ghouse Kirana ,SE02,B274,B002,OTL02
+SH457,Health Point Medical,SE02,B269,B003,OTL01
+SH458,Mohsin Kirana,SE02,B275,B002,OTL22
+SH459,Al Askari Kirana General Store,SE02,B250,B002,OTL22
+SH460,Sohail Ice Cream Parlour,SE02,B261,B011,OTL22
+SH461,Scoops Icecream Parlour,SE02,B269,B004,OTL01
+SH462,Yns Mini Mart,SE02,B244,B002,OTL02
+SH463,Mohammed Chilled Point,SE02,B269,B006,OTL18
+SH464,Mallikarjuna Kirana General Store,SE02,B276,B002,OTL22
+SH465,Sayeed And Sons Cool Drinks,SE02,B261,B012,OTL22
+SH466,Faeem Kirana General Store,SE02,B244,B002,OTL02
+SH467,Tayyaba Medical Hall,SE02,B244,B003,OTL02
+SH468,Afroz Kirana And Ice Cream Parlour,SE02,B250,B002,OTL22
+SH469,Riyan Wahlan Kirana General Store,SE02,B252,B002,OTL02
+SH470,Zubaidi Kirana General Store,SE02,B277,B002,OTL22
+SH471,Rayees Kirana General Store,SE02,B255,B002,OTL22
+SH472,Al Sadath Super Store,SE02,B244,B009,OTL02
+SH473,Baqreba Kirana General Store,SE02,B250,B002,OTL22
+SH474,S S Kirana Stationery General Store,SE02,B273,B002,OTL02
+SH475,Saher Bakery,SE02,B278,B001,OTL22
+SH476,Nice Medical Hall,SE02,B255,B003,OTL22
+SH477,Shifa Kirana General Store,SE02,B277,B002,OTL18
+SH478,Sri Amrutha Medical General Store,SE02,B280,B003,OTL18
+SH479,Akbar Kirana General Store Ice Cream,SE02,B244,B002,OTL02
+SH480,Sama Store And Pan Shop,SE02,B281,B009,OTL18
+SH481,Maseeha Medical General Store,SE02,B282,B003,OTL22
+SH482,Rahman Bakery,SE02,B278,B001,OTL22
+SH483,Laxmi Narayana Kirana General Store,SE02,B256,B002,OTL02
+SH484,Sana Stationary ,SE02,B247,B009,OTL02
+SH485,Maqbool Al Jabri,SE02,B283,B002,OTL22
+SH486,Hameed General Store,SE02,B261,B002,OTL22
+SH487,Ramzan Medical General Store,SE02,B261,B003,OTL22
+SH488,Bismillah Kirana General Store,SE02,B284,B002,OTL22
+SH489,Ubed Kirana General Store,SE02,B277,B002,OTL22
+SH490,Omran Bakooban Kirana General Store,SE02,B285,B002,OTL02
+SH491,Madina Medical,SE02,B275,B003,OTL02
+SH492,Safi Pharmacy,SE02,B252,B003,OTL22
+SH493,Shama Pan Shop And General Store,SE02,B272,B009,OTL22
+SH494,Cake Wala Bakers And Sweets,SE02,B251,B001,OTL22
+SH495,Basultan Medical General Store,SE02,B286,B003,OTL18
+SH496,Abubaker Kirana Store,SE02,B250,B002,OTL22
+SH497,Famous Medical General Store,SE02,B287,B003,OTL22
+SH498,Zubaidi Pan Shop And General Store,SE02,B283,B009,OTL09
+SH499,Adan Communications,SE02,B262,B006,OTL18
+SH500,Saeed Kirana General Store,SE02,B261,B002,OTL22
+SH501,Bawazeer Medical General Store,SE02,B261,B003,OTL12
+SH502,Baser Kirana General Store,SE02,B250,B002,OTL22
+SH503,Syed Yaseen Kirana General Store,SE02,B288,B002,OTL02
+SH504,Khalid Yamani Kirana General Store,SE02,B289,B002,OTL22
+SH505,Bagdadi Kirana General Store,SE02,B250,B002,OTL05
+SH506,Jaweed Khan Kirana General Store,SE02,B261,B002,OTL02
+SH507,Ahmed Kirana General Store,SE02,B261,B002,OTL05
+SH508,Abdullah General Store,SE02,B278,B009,OTL22
+SH509,Raheem Kirana General Store,SE02,B290,B002,OTL22
+SH510,Waseem Kirana General Store,SE02,B261,B002,OTL22
+SH511,Saud Kirana General Store,SE02,B261,B002,OTL22
+SH512,Sadiq Kirana General Store,SE02,B291,B002,OTL22
+SH513,Owais Kirana General Store,SE02,B291,B002,OTL22
+SH514,Ghousia Wholesale Market,SE02,B261,B002,OTL09
+SH515,Rashid Wahlan Cool Drinks And Ice Cream Parlour,SE02,B292,B004,OTL22
+SH516,Balhabak Market,SE02,B275,B007,OTL02
+SH517,Saleem Kirana General Store,SE02,B293,B002,OTL22
+SH518,Mohammad Kirana General Store,SE02,B284,B002,OTL02
+SH519,Family Care Pharmacy And General Store,SE02,B103,B009,OTL13
+SH520,A B Stores,SE02,B261,B002,OTL18
+SH521,Abood Kirana General Store,SE02,B261,B002,OTL22
+SH522,Younus Zubali Kirana General Store,SE02,B294,B002,OTL22
+SH523,Habeeb Medical General Store,SE02,B283,B003,OTL18
+SH524,Sea Ice Cream Parlour,SE02,B250,B004,OTL01
+SH525,Adnan Kirana Store,SE02,B250,B002,OTL22
+SH526,Omer Kirana General Store,SE02,B295,B002,OTL02
+SH527,Arb Medical General Store,SE02,B296,B003,OTL22
+SH528,Badiyaan Ice Cream And Cooldrinks,SE02,B269,B004,OTL18
+SH529,Al Amoodi Generals,SE02,B269,B009,OTL13
+SH530,Happy Marts,SE06,B297,B009,OTL03
+SH531,Zs Mart Kirana,SE06,B298,B002,OTL05
+SH532,Needs Bakery,SE06,B298,B001,OTL05
+SH533,Ali Medical,SE06,B299,B003,OTL05
+SH534,A Z Mart,SE06,B300,B007,OTL18
+SH535,Masqati Shopper Inn,SE06,B299,B006,OTL05
+SH536,K Mart,SE06,B299,B009,OTL22
+SH537,Al Ahmed Enterprise,SE06,B126,B009,OTL22
+SH538,Az Supermarket,SE06,B299,B007,OTL22
+SH539,Al Mansoor Bakery,SE02,B298,B001,OTL05
+SH540,Pista House Bakery,SE02,B301,B001,OTL13
+SH541,Orange Traders,SE02,B298,B009,OTL15
+SH542,M F Kirana ,SE02,B302,B002,OTL02
+SH543,Tawakkal Communications,SE02,B126,B009,OTL22
+SH544,Daimond Kirana Store,SE02,B298,B002,OTL18
+SH545,Amjad Kirana And General,SE02,B303,B002,OTL02
+SH546,New Food Land Kirana And General,SE02,B303,B002,OTL02
+SH547,Shah Taufeeq Kirana,SE02,B298,B002,OTL05
+SH548,Royal Generalstore,SE02,B298,B002,OTL22
+SH549,Akram Cooldrinks,SE02,B298,B006,OTL05
+SH550,Mohd Basheer Milk And Icecream,SE02,B298,B006,OTL05
+SH551,Sri Venkateshwara Treders,SE02,B304,B002,OTL02
+SH552,Paya E Zone,SE02,B298,B009,OTL15
+SH553,Babul Kirana,SE02,B298,B009,OTL15
+SH554,Alfa Kirana,SE02,B298,B002,OTL05
+SH555,Nice Store,SE02,B298,B002,OTL02
+SH556,Gulzar Bakery,SE02,B298,B001,OTL15
+SH557,Have More Bakery,SE02,B298,B001,OTL22
+SH558,Variety Bakry,SE02,B257,B001,OTL05
+SH559,Baqris Icecream Parlor,SE02,B298,B004,OTL12
+SH560,A1 Shop,SE02,B257,B006,OTL16
+SH561,Banglor Iyenger Bakery,SE02,B257,B001,OTL18
+SH562,Happy Day Mart,SE02,B299,B002,OTL22
+SH563,Kh Icecream And Cooldrinks,SE02,B299,B004,OTL05
+SH564,S V Keiran General Store,SE02,B305,B009,OTL02
+SH565,Azmath Medical,SE02,B299,B003,OTL05
+SH566,Ali Generalstore,SE02,B299,B009,OTL22
+SH567,Fine Bakery,SE02,B299,B001,OTL22
+SH568,Prince Icecreamparlor,SE02,B299,B004,OTL12
+SH569,Tirumala Agency,SE02,B299,B003,OTL22
+SH570,Bombay Bakers,SE02,B299,B001,OTL22
+SH571,Taher Kirana,SE02,B298,B002,OTL05
+SH572,Makkah Cooldrinks,SE02,B299,B006,OTL22
+SH573,Qidmath Pharmacy Medical And General,SE02,B306,B003,OTL02
+SH574,Cool Point,SE02,B298,B006,OTL05
+SH575,Pancharangy Generalstore,SE02,B299,B009,OTL22
+SH576,Lassi Rocks,SE02,B307,B006,OTL02
+SH577,Ateeq Juice Center,SE02,B299,B006,OTL22
+SH578,Vidhya Sree Scoops Ice Cream Parlour,SE02,B308,B004,OTL05
+SH579,Zeenth Medical And General Store,SE02,B309,B003,OTL22
+SH580,Kgn Traders,SE02,B310,B002,OTL02
+SH581,Cool Drinks,SE02,B311,B006,OTL02
+SH582,Delhi Kgs,SE02,B299,B002,OTL22
+SH583,Srinivas Kirana Store,SE02,B312,B002,OTL02
+SH584,Bismillah Cool Point,SE02,B313,B009,OTL02
+SH585,Asian Generalstore,SE02,B299,B009,OTL22
+SH586,Sai Vishnu Sweets,SE02,B314,B008,OTL02
+SH587,Shambu Kartik Kirana General Store,SE02,B312,B002,OTL02
+SH588,Ilyas Home Needs,SE02,B299,B002,OTL22
+SH589,Fakhri Well Kirana And General,SE02,B315,B002,OTL02
+SH590,Aia Enterprises,SE02,B316,B004,OTL18
+SH591,Shiva Dhanu Sree Kirana General Store,SE02,B317,B002,OTL02
+SH592,Masqati Supermarket,SE02,B299,B007,OTL05
+SH593,Jai Durga,SE02,B318,B002,OTL02
+SH594,Safeena Bakry,SE02,B299,B001,OTL22
+SH595,Pista House,SE02,B319,B001,OTL02
+SH596,Al Rahman Juice Center,SE02,B299,B006,OTL22
+SH597,Zaid Medical,SE02,B299,B003,OTL22
+SH598,Gore Bhai Kirana,SE02,B299,B009,OTL22
+SH599,S S Kirana General Store,SE02,B257,B002,OTL13
+SH600,Shivanath Mangilal Mitai Wala,SE02,B314,B008,OTL02
+SH601,Al Mansoor Bakers,SE02,B303,B001,OTL02
+SH602,Jahangir And Sons Kirana General Store,SE02,B322,B002,OTL02
+SH603,Hk Bakerys,SE02,B174,B001,OTL22
+SH604,Priyanka Generalstore,SE02,B126,B009,OTL12
+SH605,Azam Medical Hall,SE02,B323,B003,OTL18
+SH606,Volta Generalstore,SE02,B299,B009,OTL22
+SH607,Shankar Kirana Store,SE02,B324,B002,OTL02
+SH608,Abdul Haji Generalstore,SE02,B126,B009,OTL05
+SH609,Bushra Medical Hall,SE02,B299,B003,OTL22
+SH610,Andul Ahad Kgs,SE02,B126,B009,OTL22
+SH611,Snack Land,SE02,B126,B009,OTL22
+SH612,Ahmed Kirana And General Store,SE02,B300,B009,OTL18
+SH613,Sri Sai Medical Hall,SE02,B325,B009,OTL18
+SH614,Al Jubaidi Cool Zone,SE02,B299,B006,OTL22
+SH615,Al Noor Generals,SE02,B327,B009,OTL02
+SH616,Babar Kgs,SE02,B126,B002,OTL05
+SH617,Jaffar Kirana And General,SE02,B328,B002,OTL02
+SH618,Tarun Kirana General Store,SE02,B329,B002,OTL02
+SH619,Bismillah Kirana And General,SE02,B330,B002,OTL02
+SH620,Al Yousuf Cool Drink And Ice Cream Parlour,SE02,B322,B004,OTL22
+SH621,Bhavani Sweets,SE02,B331,B008,OTL18
+SH622,Nawaz Cooldrinks Point,SE02,B126,B009,OTL05
+SH623,Sayeed Communication,SE02,B332,B012,OTL02
+SH624,A Mart,SE02,B257,B009,OTL12
+SH625,Tawakkal Trader And Commnication,SE02,B333,B002,OTL18
+SH626,Sri Balaji Mithai Bhandar,SE02,B334,B008,OTL18
+SH627,Saif Milk And Cooldrinks,SE02,B126,B009,OTL05
+SH628,Khan Kirana General Store,SE02,B335,B002,OTL02
+SH629,Ahmeds Kirana General Store,SE02,B336,B002,OTL18
+SH630,Delhi Mithai Vatika,SE02,B126,B008,OTL22
+SH631,Hudox Kirana And General Store,SE02,B337,B009,OTL01
+SH632,Shree Lakshmi Kirana General Store,SE02,B338,B002,OTL02
+SH633,Al Rahman Kirana And General,SE02,B339,B002,OTL02
+SH634,Ice Cream World,SE02,B340,B004,OTL09
+SH635,Haji Cool Drinks,SE02,B341,B006,OTL18
+SH636,Famous Medical And General,SE02,B342,B003,OTL02
+SH637,Geethanjali Kirana General Store,SE02,B331,B002,OTL02
+SH638,Zaheer Kirana,SE02,B343,B002,OTL02
+SH639,Anwar Medical And General,SE02,B344,B003,OTL02
+SH640,Surajmal Jain Cosmetics General,SE02,B345,B002,OTL02
+SH641,Ahmed Medical Hall,SE02,B126,B003,OTL12
+SH642,Imam Medical,SE02,B126,B003,OTL05
+SH643,Amjad Kirana Store,SE02,B339,B002,OTL02
+SH644,Al Noor Kgs,SE02,B126,B002,OTL05
+SH645,M N S Kirana General Store,SE02,B334,B002,OTL02
+SH646,Md Aijaz Kirana And General,SE02,B346,B002,OTL02
+SH647,Ya Raazak Cool Point,SE02,B347,B006,OTL02
+SH648,Al Noor Kirana And General,SE02,B328,B002,OTL02
+SH649,Al Aziz Bakery,SE02,B344,B001,OTL02
+SH650,Rahman Confectionary,SE02,B328,B009,OTL02
+SH651,S K Cool Drinks And Icecream,SE02,B344,B006,OTL02
+SH652,Saif Medical And General,SE02,B342,B003,OTL02
+SH653,Hm Medical,SE02,B257,B003,OTL12
+SH654,Balaji Poonam Chand Mitai Bandar,SE05,B14,B008,OTL01
+SH655,Snack Hub,SE05,B349,B001,OTL02
+SH656,Rama Krishna Kirana And General Stores,SE05,B350,B002,OTL02
+SH657,Somnath Kirana General Stores,SE05,B348,B002,OTL02
+SH658,Ritesh Kirana General Stores,SE05,B350,B002,OTL02
+SH659,Bhavani Medical General Stores,SE05,B163,B003,OTL01
+SH660,Sri Venkata Sai Kirana General Stores,SE05,B163,B002,OTL02
+SH661,Bakers Delight,SE05,B163,B001,OTL01
+SH662,Sri Venkateshwara Kirana General Stores,SE05,B350,B002,OTL02
+SH663,Baba Sai Kirana General Stores,SE05,B350,B002,OTL02
+SH664,New Sv Cake House,SE05,B351,B001,OTL01
+SH665,Daily Needs Kirana And General Stores,SE05,B348,B002,OTL02
+SH666,Komal Kirana General Stores,SE05,B349,B002,OTL02
+SH667,Gayatri Kirana General Stores,SE05,B352,B002,OTL02
+SH668,Tip Max Bakers,SE05,B353,B001,OTL01
+SH669,Harika Kirana General Store,SE05,B353,B002,OTL02
+SH670,Lalitha Kirana General Store,SE05,B353,B002,OTL02
+SH671,Indian Kirana General Store,SE05,B353,B002,OTL02
+SH672,Dhanalaxmi Kirana And General Store,SE03,B354,B002,OTL15
+SH673,Tipsy Topsy Bakers,SE04,B225,B001,OTL18
+SH674,Akarsha Super Market,SE04,B355,B002,OTL12
+SH675,Sri Raja Rajeswari Kirana General Store,SE04,B223,B002,OTL18
+SH676,Sri Sai Ganesh Probishion Store,SE04,B356,B002,OTL02
+SH677,New Bangalore Iyengar Bakary,SE04,B357,B001,OTL02
+SH678,Sri Gayathry Dairy Kiranam,SE04,B358,B002,OTL02
+SH679,Balaji General Kiranam,SE04,B358,B002,OTL02
+SH680,Bengalore Ayyangar Bakery,SE04,B359,B004,OTL02
+SH681,Mahalaxmi Kirana General Store,SE04,B358,B002,OTL02
+SH682,Sri Uma Sai Kirana And General,SE04,B360,B002,OTL02
+SH683,Kasadella Bakery,SE04,B361,B001,OTL01
+SH684,S V Bakery And Hot Chips,SE04,B362,B001,OTL01
+SH685,Swapna Kirana General Store,SE04,B363,B002,OTL02
+SH686,Eri Hanuman Kirana General Store,SE04,B363,B002,OTL02
+SH687,Laxmi Vekateswara Kiranam,SE04,B364,B002,OTL03
+SH688,Sri Sai Kiranam,SE04,B365,B002,OTL02
+SH689,Rajarajeswari Kiranam,SE04,B366,B002,OTL02
+SH690,Laxmi Narsimha Kiranam,SE04,B366,B002,OTL02
+SH691,Balaji Ram Ratan Mithai Bander,SE04,B364,B008,OTL03
+SH692,Sree Himabindu Genarls Store,SE04,B366,B002,OTL02
+SH693,Swatha Bakery Genarls Store,SE04,B366,B002,OTL02
+SH694,Sri Bakary,SE04,B368,B001,OTL22
+SH695,Om Sri Sai Kiranam,SE04,B366,B002,OTL02
+SH696,Srinivas Stores,SE04,B369,B002,OTL02
+SH697,New Cafe Bahar ,SE04,B370,B001,OTL02
+SH698,Hindusthan Kiranam Genarls Store,SE04,B366,B002,OTL02
+SH699,Azeen Ice Cream Parlar,SE04,B371,B004,OTL03
+SH700,Ammu Bakarys,SE04,B372,B001,OTL05
+SH701,Radha Krishna Kiranam Genarls Store,SE04,B366,B002,OTL02
+SH702,Vasavi Kiranam,SE04,B372,B002,OTL02
+SH703,Sai Ram Kiranam Genarls,SE04,B373,B002,OTL02
+SH704,Bangalore Iyengar Bakary,SE04,B374,B001,OTL05
+SH705,Sai Santhosh Kiranam,SE04,B368,B002,OTL02
+SH706,Eat Treats Bakers,SE04,B375,B001,OTL12
+SH707,Bakers Paradise,SE04,B376,B001,OTL01
+SH708,Sri Balaji Shiva Naryan Mithai Bander,SE04,B377,B008,OTL03
+SH709,Rushi Icecream Parlar,SE04,B375,B004,OTL05
+SH710,Ram Raj Kiranam,SE04,B366,B002,OTL02
+SH711,Sri Ganesh Masqati Dairy Parlour,SE04,B378,B004,OTL02
+SH712,Sarena Bakary,SE04,B379,B001,OTL07
+SH713,Sai Ram Kiranam,SE04,B380,B002,OTL02
+SH714,V Mart Store,SE04,B366,B002,OTL02
+SH715,Ammulu Friesh Market,SE04,B369,B002,OTL05
+SH716,Master Chef Bakary,SE04,B375,B001,OTL07
+SH717,Sai Akila Bakary,SE04,B375,B001,OTL02
+SH718, No Mika Ice Cream Parlar,SE04,B366,B004,OTL02
+SH719,Mohan Provisional Store,SE04,B366,B002,OTL06
+SH720,Balaji Mithai Bander,SE04,B367,B001,OTL12
+SH721,Prince Bakers,SE03,B381,B001,OTL01
+SH722,Dhanalaxmi Stores,SE03,B382,B002,OTL01
+SH723,Sun Bakers,SE03,B381,B001,OTL10
+SH724,Balaji Kirana General Store,SE03,B383,B002,OTL01
+SH725,Somnath Sweets,SE03,B382,B008,OTL01
+SH726,Krishna Provision Stores,SE03,B384,B002,OTL01
+SH727,Sri Dhanalaxmi Kirana General Store,SE03,B381,B002,OTL01
+SH728,Bakery Point,SE03,B381,B001,OTL10
+SH729,Rakesh Bakery,SE03,B381,B001,OTL01
+SH730,Babu Cool Drinks,SE03,B382,B006,OTL01
+SH731,Sri Tulja Bhavani Kirana General Store,SE03,B382,B002,OTL06
+SH732,Sri Balaji Jagadish Mithai Bhandar,SE03,B381,B008,OTL06
+SH733,Jai Mata Rani Bhatyani Sweet House,SE03,B382,B008,OTL01
+SH734,Golden Bakery,SE03,B385,B001,OTL07
+SH735,Best Bakers,SE03,B385,B001,OTL10
+SH736,Sri Radhe Sweet House,SE03,B386,B008,OTL01
+SH737,Gandhi Provision Stores,SE03,B387,B002,OTL01
+SH738,Candy Pvr Store,SE07,B388,B006,OTL20
+SH739,S R Enterprises,SE07,B389,B006,OTL01
+SH740,Shopper Land ,SE06,B257,B009,OTL05
+SH741,Shop N Save Supermarket,SE06,B126,B007,OTL05
+SH742,Bilal Shop And Treat,SE06,B126,B009,OTL05
+SH743,Yousfain Super Market,SE06,B390,B007,OTL02
+SH744,Aslam Cool Drinks,SE06,B391,B006,OTL02
+SH745,Sri Balaji Super Market,SE06,B392,B002,OTL01
+SH746,Scoop And Sundeas,SE06,B126,B009,OTL22
+SH747,Al Mannan Kgs,SE06,B126,B009,OTL05
+SH748,Madeena Kirana And General,SE06,B393,B002,OTL02
+SH749,Tq Supermart,SE06,B126,B007,OTL05
+SH750,Rahul Kirana General Stores,SE03,B394,B009,OTL01
+SH751,Azaan K G S,SE03,B395,B002,OTL22
+SH752,Jk Enterprises Kirana General Store,SE03,B396,B002,OTL22
+SH753,Radheshnam Food Court And Bakers,SE03,B397,B001,OTL01
+SH754,Shashanthmani Kirana And General Store,SE03,B395,B002,OTL02
+SH755,Sri Sai Bakers,SE03,B398,B001,OTL02
+SH756,Bangalore Iyengar Bekary,SE03,B399,B001,OTL02
+SH757,Prasad Bakery,SE01,B400,B001,OTL02
+SH758,S V Bekers And Ice Creams,SE04,B401,B004,OTL01
+SH759,Bangalore Iyyangar Bakery,SE04,B401,B001,OTL01
+SH760,Krishnakrishna Kiranam And General Store,SE04,B402,B002,OTL05
+SH761,Vasavi Kirana General Store,SE04,B403,B002,OTL02
+SH762,Prashanthi Kirana General Store,SE04,B404,B002,OTL05
+SH763,Balaji Darbar Sweet House,SE04,B402,B001,OTL01
+SH764,The Master Bakery,SE04,B406,B001,OTL02
+SH765,Tasty Bakers,SE04,B404,B001,OTL19
+SH766,M And M Bakery,SE04,B403,B001,OTL05
+SH767,Sri Raghavendra Kirana General Store,SE04,B404,B002,OTL05
+SH768,Mahalaxmi Kirana General Store ,SE04,B404,B002,OTL05
+SH769,Maa Durga Bhavani Kirana General Store,SE04,B407,B002,OTL05
+SH770,Bhagwan Bakery Basket,SE04,B408,B001,OTL01
+SH771,Sai Durga Kirana General Store ,SE04,B409,B002,OTL04
+SH772,Ayyappa Kirana General Store,SE04,B409,B002,OTL12
+SH773,Dev Mini Supermarket,SE04,B410,B007,OTL02
+SH774,Sri Laxmi Balaji Kirana General Store,SE04,B404,B002,OTL09
+SH775,Sri Balaji Sitaram Bakery,SE04,B408,B001,OTL01
+SH776,Sree Shiva Sai Kirana General Store,SE04,B403,B002,OTL05
+SH777,Sri Balaji Bhagavan Bakery ,SE04,B408,B001,OTL01
+SH778,7K Bakery,SE04,B411,B001,OTL01
+SH779,Rajarajeshwari Kirana General Store,SE04,B403,B002,OTL05
+SH780,Tejasree Kirana General Store,SE04,B412,B002,OTL02
+SH781,Sri Sai Laxmi Kirana General Store,SE04,B403,B002,OTL05
+SH782,Elbow Bakers,SE04,B404,B001,OTL19
+SH783,Sri Mahalaxmi Kirana General Store,SE04,B403,B002,OTL05
+SH784,Sri Balaji Sunil Kumar Mithai Bandar,SE04,B411,B001,OTL01
+SH785,Sri Venkatalaxmi Kirana General Store,SE04,B404,B002,OTL02
+SH786,Sri Padmavathi Kirana General Store,SE04,B409,B002,OTL12
+SH787,Sri Sai Venkateshwara Kirana General Store,SE04,B403,B002,OTL05
+SH788,Sri Krishna Milk Centre,SE04,B404,B002,OTL02
+SH789,Sahasra Kirana General Store,SE04,B407,B002,OTL02
+SH790,Santhoshi Matha Kirana General Store,SE04,B414,B002,OTL05
+SH791,Balaji Mithai Bandar,SE04,B415,B008,OTL09
+SH792,Sri Manikanta Kirana General Store,SE04,B415,B002,OTL09
+SH793,Salasar Kiranam And General Store ,SE04,B416,B002,OTL02
+SH794,Balaji Sukh Sagar Sweets And Chat,SE04,B417,B008,OTL02
+SH795,Sri Venkateshwara Ice Cream ,SE04,B415,B001,OTL09
+SH796,Aai Matha Kirana General Store,SE04,B415,B002,OTL09
+SH797,Laxmi Kirana General Store,SE04,B418,B002,OTL02
+SH798,Sri Tirumala Kirana General Store,SE04,B419,B002,OTL05
+SH799,Adi Laxmi Kirana General Store,SE04,B403,B002,OTL18
+SH800,S Kumar Kirana General Store,SE04,B420,B002,OTL19
+SH801,Venkatesh Kirana General Store,SE04,B423,B002,OTL02
+SH802,Jai Hanuman Kirana General Store,SE04,B412,B002,OTL02
+SH803,Sai Ram Kirana General Store,SE04,B424,B002,OTL02
+SH804,Sai Milk Kirana General Store,SE04,B419,B002,OTL19
+SH805,Sai Kiran Enterprises,SE04,B426,B001,OTL19
+SH806,Sri Balaji Mahendra Dev Sweet House,SE04,B427,B008,OTL18
+SH807,Skb Bakerys,SE04,B428,B001,OTL01
+SH808,Hari Priya Kirana General Store,SE04,B429,B002,OTL02
+SH809,Vyshravan Kirana General Store,SE04,B430,B002,OTL02
+SH810,Sindu Kirana General Store,SE04,B431,B002,OTL05
+SH811,Sri Bhuvaneshwari Kiranam And General Store,SE04,B432,B002,OTL02
+SH812,7 Hills Kiranam And General Store,SE04,B416,B002,OTL02
+SH813,Jai Bhavani Bakery Kirana And General,SE04,B434,B002,OTL02
+SH814,Yehovanaa Kapari Kirana General Store,SE04,B435,B002,OTL02
+SH815,Sri Rama Cool Drinks And Stationery,SE04,B436,B001,OTL01
+SH816,S S Bakers,SE04,B437,B001,OTL01
+SH817,Dhanalakshmi Kiranam And General Store,SE04,B436,B002,OTL01
+SH818,Akhil Kiranam And General Store,SE04,B438,B002,OTL01
+SH819,Mahadev Kiranam And General Store,SE04,B439,B002,OTL05
+SH820,Hindrani Devanarayan Kiranam And General Store,SE04,B440,B002,OTL01
+SH821,Sri Venkateshwara Kiranam And General Store,SE04,B441,B002,OTL05
+SH822,New Bek Bekery,SE05,B442,B001,OTL02
+SH823,I B Bakers,SE05,B443,B001,OTL01
+SH824,Bakers Max Ice Cream Parlour,SE05,B443,B001,OTL01
+SH825,Sri Sai Balaji Stores,SE05,B444,B002,OTL02
+SH826,Faram House,SE05,B445,B009,OTL01
+SH827,Gangram Cool Drinks And Generalstore,SE05,B446,B002,OTL02
+SH828,Sri Medical And Generalstore,SE05,B446,B003,OTL02
+SH829,Kirana Ghar,SE05,B446,B002,OTL02
+SH830,Tirumala Enterprises,SE05,B446,B002,OTL02
+SH831,Sri Srinivasa Chips Shop,SE05,B447,B008,OTL02
+SH832,Anand Medical,SE05,B446,B003,OTL02
+SH833,Bombay Stores,SE05,B447,B009,OTL02
+SH834,Our Basket ,SE05,B446,B002,OTL02
+SH835,Sri Bhavani Kgs,SE05,B446,B002,OTL02
+SH836,Sai Dam,SE05,B447,B009,OTL02
+SH837,Baskar Kgs,SE05,B446,B002,OTL02
+SH838,Evergrand Bazer,SE05,B448,B002,OTL02
+SH839,Ratnadeep Supper Market,SE05,B449,B007,OTL02
+SH840,Arshad Kirana General Store,SE07,B98,B002,OTL02
+SH841,Bade E Paa Kirana General Store,SE07,B98,B002,OTL02
+SH842,Brothers Bakery,SE07,B450,B001,OTL02
+SH843,Bigloaf Bakery Sweets,SE07,B98,B001,OTL02
+SH844,Abdullah Bakery,SE07,B98,B001,OTL02
+SH845,Syed Sameer Kirana General Store,SE07,B98,B002,OTL02
+SH846,Sri Raja Rajeswara Kirana General Store,SE01,B91,B002,OTL05
+SH847,Sri Laxmi Kirana General Store,SE01,B91,B002,OTL04
+SH848,Variety Provision Center,SE03,B451,B002,OTL01
+SH849,F F Mart ,SE03,B452,B007,OTL01
+SH850,Sree Shubh Labh General Store,SE05,B453,B009,OTL01
+SH851,Sri Balaji Shyam Mitai Bandar,SE05,B454,B008,OTL01
+SH852,Brother Banglore Iyengar Bakery,SE05,B455,B001,OTL02
+SH853,Burhan Khan Kirana General Stores,SE05,B456,B002,OTL02
+SH854,Laxmi Narayana Sweets House,SE05,B457,B008,OTL02
+SH855,N Sugan Chand Jain Kirana General Stores,SE05,B458,B002,OTL08
+SH856,Sri Balaji Bakery And General Stores,SE05,B455,B001,OTL02
+SH857,New York Bakery,SE05,B459,B001,OTL01
+SH858,Natural Ice Cream And Cool Drinks,SE05,B460,B004,OTL01
+SH859,Ranga Stores,SE05,B462,B002,OTL02
+SH860,Jain Sons Medical General Stores,SE05,B459,B003,OTL01
+SH861,Raja Rajeshwari Medical And General Stores,SE05,B463,B003,OTL01
+SH862,Laxmi Sai Cool Drinks General,SE05,B464,B009,OTL01
+SH863,Kumar Medical General Stores,SE05,B465,B003,OTL01
+SH864,Riti Foo Store,SE05,B169,B001,OTL05
+SH865,Suraj Icecream Parlour,SE05,B462,B004,OTL02
+SH866,Maha Laxmi Kirana General Stores,SE05,B462,B002,OTL02
+SH867,Veg Nation Bakers,SE05,B169,B001,OTL02
+SH868,Pooja Enterprises,SE05,B465,B009,OTL01
+SH869,Hari Nadh Kirana General Stores,SE05,B462,B002,OTL02
+SH870,Sangameshwara Kirana General Stores,SE05,B169,B002,OTL02
+SH871,Sri Data Stores Dry Fruits,SE05,B462,B002,OTL02
+SH872,S L V Mineral Water,SE05,B169,B006,OTL02
+SH873,Uma Kirana General Stores,SE05,B169,B002,OTL02
+SH874,Surabhi Medical Hall,SE05,B466,B003,OTL02
+SH875,Ajay Cool Drinks Stall,SE05,B40,B006,OTL03
+SH876,Keshav Foods,SE05,B467,B006,OTL01
+SH877,Moulana Bakery,SE05,B466,B001,OTL02
+SH878,Abhijeeth Super Market,SE08,B468,B007,OTL18
+SH879,Hamza Ice Cream,SE08,B469,B004,OTL22
+SH880,Ramchander Kirana General Store,SE08,B468,B002,OTL13
+SH881,New Sofine Kirana General Store,SE08,B470,B002,OTL02
+SH882,Al Karim Medical General Store,SE08,B468,B003,OTL13
+SH883,Nitya Dairy Parlour,SE08,B471,B006,OTL22
+SH884,Medineed Medical Hall,SE08,B470,B003,OTL09
+SH885,Zeds Bakery ,SE08,B472,B001,OTL18
+SH886,Bluemoon Sweets Bakers,SE08,B473,B001,OTL18
+SH887,Muralidhar Kirana General Store,SE08,B474,B002,OTL02
+SH888,Naresh Kiranam General Store,SE08,B475,B002,OTL02
+SH889,S K Medical Hall General Store,SE08,B476,B003,OTL18
+SH890,Mahadev Kirana,SE08,B477,B002,OTL02
+SH891,Mathaji Kirana,SE08,B478,B002,OTL02
+SH892,Bismillah Bakery,SE08,B475,B001,OTL22
+SH893,Sree Venkateshwara Kgs,SE08,B475,B002,OTL22
+SH894,Sai Veerabhadra Kirana General Store,SE08,B475,B002,OTL22
+SH895,Just Bake,SE08,B480,B001,OTL01
+SH896,Varalaxmi Kirana,SE08,B477,B002,OTL02
+SH897,Sri Sai Balram Kirana,SE08,B478,B002,OTL01
+SH898,City Care Medical General Store,SE08,B481,B003,OTL22
+SH899,Roshan Kirana General Store,SE08,B475,B002,OTL22
+SH900,Dhenu Kirana,SE08,B482,B002,OTL10
+SH901,Sana Ice Cream And Cool Drinks,SE08,B483,B006,OTL01
+SH902,New Jai Bhavani Sweet House,SE08,B484,B008,OTL07
+SH903,Sri Mahalaxmi Kiran General Store,SE08,B485,B002,OTL01
+SH904,Jai Ho Cool Drinks,SE08,B484,B006,OTL01
+SH905,N S Cool Drinks,SE08,B475,B001,OTL01
+SH906,Veeranna Kirana General Store,SE08,B475,B002,OTL02
+SH907,Hyderaguda Sweets Juice Chat Bakery,SE08,B481,B001,OTL18
+SH908,Suvidha Store,SE08,B486,B010,OTL10
+SH909,Astoria Resturent,SE08,B487,B001,OTL01
+SH910,New Bharath Stores,SE08,B488,B002,OTL01
+SH911,Meenakshi Mini Mart ,SE08,B489,B002,OTL01
+SH912,Daily Needs General Store,SE08,B490,B002,OTL01
+SH913,Lavanya Medical And General Store,SE08,B491,B003,OTL01
+SH914,Vakils Pharmacy,SE08,B492,B003,OTL01
+SH915,Sadguru Kiranam And General Store,SE08,B493,B002,OTL02
+SH916,Well Street Shopping Basket,SE08,B494,B002,OTL02
+SH917,Om Sairam Kiranam And General Store,SE08,B495,B002,OTL02
+SH918,Delhi Mithai Wala And Bakery,SE08,B491,B001,OTL01
+SH919,Paradise Take Way Bakery,SE08,B496,B001,OTL01
+SH920,Al Kareem Ice Cream Parlour,SE08,B491,B004,OTL01
+SH921,Mittal Kiranam And General Store,SE08,B491,B009,OTL01
+SH922,Sri Balji Mithai Bandar,SE08,B490,B008,OTL01
+SH923,Sri Sai Krishna Supermarket,SE08,B497,B002,OTL01
+SH924,Asra Kiranam And General Store,SE08,B491,B002,OTL02
+SH925,U R Bakers ,SE08,B491,B001,OTL01
+SH926,Buiaaqi Kashmiri Bakers,SE08,B498,B001,OTL01
+SH927,Pavan Stores,SE08,B499,B009,OTL02
+SH928,Shreshta Mart,SE08,B500,B002,OTL01
+SH929,Golden Kiranam And General Store,SE08,B493,B002,OTL01
+SH930,Datta Sai Kiranam And General Store,SE08,B491,B002,OTL01
+SH931,H K Enterprises,SE08,B491,B002,OTL02
+SH932,Sri Manohar Provisions Store,SE08,B491,B002,OTL01
+SH933,S R Enterprises Dairy And Icecreams,SE08,B495,B006,OTL02
+SH934,M Narsimha Reddy Kiranam And General Store,SE08,B491,B002,OTL01
+SH935,Naveen Provisions Store,SE08,B501,B002,OTL02
+SH936,Manikprbhu Kiranam And General Store,SE08,B497,B002,OTL01
+SH937,Sri Datta Sai Kiranam And General Store,SE08,B491,B002,OTL01
+SH938,Karachi Supermarket ,SE08,B492,B002,OTL01
+SH939,Phani Icecream Parlour,SE08,B499,B004,OTL02
+SH940,M F Bakers And More,SE08,B502,B001,OTL01
+SH941,M V Agro Products Milk Nd Icecreams,SE08,B497,B004,OTL02
+SH942,New Kubera Kirana And General,SE06,B503,B002,OTL02
+SH943,O S Super Market,SE06,B504,B007,OTL02
+SH944,Farhan Kirana And General,SE06,B503,B002,OTL02
+SH945,Huda General Store,SE06,B505,B009,OTL02
+SH946,Syed Siraj Kirana Store,SE06,B393,B002,OTL02
+SH947,Heritage Parlour,SE05,B506,B009,OTL10
+SH948,Sri Vakratunda Tea Coffe Snacks,SE05,B174,B009,OTL10
+SH949,Famous Cool Point,SE05,B507,B006,OTL12
+SH950,Juloori Traders,SE05,B508,B002,OTL02
+SH951,Sri Mallikarjuna Bakery,SE05,B174,B009,OTL10
+SH952,P Buchaiah And Sons General Stores,SE05,B509,B009,OTL01
+SH953,Shambhulal And Co Super Stores Kirana Toys Gifts Crockery Stell,SE05,B510,B002,OTL01
+SH954,Raj Sree Dry Fruits,SE05,B509,B007,OTL01
+SH955,Kishore General Stores,SE05,B511,B009,OTL02
+SH956,Jai Bhagya Sri Kirana General Stores,SE05,B510,B002,OTL02
+SH957,Manisha Dry Fruits,SE05,B510,B013,OTL05
+SH958,J K Kites General Stores,SE05,B512,B009,OTL02
+SH959,Masqati Icecreams,SE05,B513,B004,OTL18
+SH960,Right Choice Grand Bazar,SE05,B514,B009,OTL18
+SH961,Madina Snacks And Cooldrinks,SE05,B515,B009,OTL18
+SH962,Jameel Communications,SE05,B516,B009,OTL22
+SH963,King Koti General Store,SE05,B516,B009,OTL22
+SH964,Masqati Ice Cream Parlour,SE05,B515,B004,OTL18
+SH965,Star Bakery And General Store,SE05,B515,B001,OTL18
+SH966,Ajs Mini Mart,SE05,B515,B007,OTL18
+SH967,Hussains Kirana General Store,SE05,B517,B002,OTL18
+SH968,Khurram Kirana General Store,SE05,B516,B002,OTL22
+SH969,Hy Line Bakery,SE05,B515,B001,OTL22
+SH970,Zeenath Medical Hall,SE05,B513,B003,OTL18
+SH971,Khaleel Kirana General Store,SE05,B516,B002,OTL22
+SH972,Bafanna Kirana General Store,SE05,B518,B002,OTL06
+SH973,M S Superior And Enterprise Bakery,SE05,B519,B001,OTL01
+SH974,Kakathiya Kirana General Store,SE05,B314,B002,OTL02
+SH975,Balaji Vishnu Sweet Home,SE05,B314,B008,OTL01
+SH976,Bhavani General Store,SE05,B520,B009,OTL10
+SH977,Umakanth Kirana General Store,SE05,B314,B002,OTL02
+SH978,Sri Stores General Marchant,SE05,B519,B009,OTL01
+SH979,Khalsa Kirana General Store,SE07,B521,B002,OTL22
+SH980,New Life Medical ,SE07,B125,B003,OTL22
+SH981,Pharma Need Pharmacy ,SE07,B521,B003,OTL22
+SH982,Kgs Kirana General Store,SE07,B522,B002,OTL22
+SH983,K P Bakers,SE07,B125,B001,OTL22
+SH984,Sattar Kirana General Store,SE07,B523,B002,OTL22
+SH985,Areef Medical Hall,SE07,B126,B003,OTL22
+SH986,Sri Raghavendra Bangalore Iyengar Bakery,SE03,B524,B001,OTL18
+SH987,Swathi Kirana General Store,SE03,B524,B002,OTL10
+SH988,Manish Kirana General Store,SE03,B524,B002,OTL10
+SH989,Sri Ganesh Mithai Bandar,SE03,B524,B008,OTL10
+SH990,Sri Krishna Mithai Bandar,SE03,B524,B008,OTL18
+SH991,Huffs N Puffs Bakery And Fast Food,SE03,B526,B001,OTL18
+SH992,Kavitha Kirana General Store,SE03,B524,B002,OTL07
+SH993,Sri Krishna Namkeen Sweets,SE03,B524,B008,OTL02
+SH994,Sri Salasar Kirana General Store,SE03,B524,B002,OTL10
+SH995,Tulip Bakery,SE03,B527,B001,OTL10
+SH996,Aishwarya Kirana General Store,SE03,B525,B002,OTL22
+SH997,Ganga Kirana General Store,SE03,B524,B002,OTL10
+SH998,Om Sai Sarza Shop,SE03,B528,B006,OTL05
+SH999,Meena Kirana General Store,SE03,B529,B002,OTL05
+SH1000,Likith Bangalore Iyengar Bakery,SE03,B530,B001,OTL02
+SH1001,Vijaya Sai Mini Super Market,SE03,B446,B002,OTL02
+SH1002,Sri Sai Vingeshwara Kirana General Store,SE04,B531,B002,OTL02
+SH1003,Sri Venkateswara Kirana Genral,SE04,B532,B002,OTL02
+SH1004,Sri Laxmi Kiranam,SE04,B533,B002,OTL02
+SH1005,Sri Rama Sweets,SE04,B534,B001,OTL01
+SH1006,Esha Reddy Kiran And Genral ,SE04,B535,B002,OTL02
+SH1007,Krish Sweets Bakary,SE04,B536,B001,OTL13
+SH1008,Jai Bavani Sri Kataki Bangalore Bakary,SE04,B537,B001,OTL02
+SH1009,Sri Sai Santhosh Kiranam,SE04,B538,B002,OTL02
+SH1010,Swathi Kiranageneral,SE04,B539,B002,OTL02
+SH1011,Balaji Ram Niranjan Kirana General Store,SE04,B540,B002,OTL02
+SH1012,4 Step In,SE04,B535,B001,OTL02
+SH1013,Kisan Fresh World,SE04,B541,B005,OTL18
+SH1014,Omkar Supermarket,SE03,B542,B007,OTL02
+SH1015,Sree Devatha Mini Market,SE03,B543,B009,OTL12
+SH1016,Bhuvaneswari Communications General Store ,SE09,B544,B009,OTL03
+SH1017,S K Provision Store ,SE09,B546,B002,OTL02
+SH1018,Sushma Icecream Parlor,SE09,B257,B004,OTL05
+SH1019,Sai Laxmi Kiranam,SE09,B547,B002,OTL02
+SH1020,Master Bakary,SE09,B547,B001,OTL02
+SH1021,Family Basket,SE09,B548,B009,OTL05
+SH1022,Lakshmi Ganapathi Kiranam Genarls,SE09,B549,B002,OTL02
+SH1023,Tirupathi Kirana And General Store,SE09,B550,B002,OTL05
+SH1024,Srs Bangloor Iyengar Bakery,SE09,B546,B001,OTL20
+SH1025,Sai Krishna Kiranam,SE09,B551,B002,OTL02
+SH1026,Laxmi Venkateshwara Stationary ,SE09,B225,B009,OTL02
+SH1027,Kwakity Bakary,SE09,B552,B001,OTL07
+SH1028,Star Bakary,SE09,B553,B001,OTL07
+SH1029,Mahalaxmi Mini Market,SE09,B555,B002,OTL02
+SH1030,Apc Medical And General Store,SE09,B225,B003,OTL19
+SH1031,Balaji Mahavir Mithai Bandar,SE03,B556,B001,OTL01
+SH1032,Sri Laxmi Narshimha Swamy Kirana,SE09,B557,B002,OTL01
+SH1033,Vishal Super Mart,SE09,B558,B007,OTL02
+SH1034,Sudhakar Bakery,SE09,B559,B001,OTL18
+SH1035,Al Saba Bakery,SE09,B74,B001,OTL22
+SH1036,Neeta Foods And Bakery,SE09,B560,B001,OTL02
+SH1037,Busra Kirana,SE09,B561,B002,OTL02
+SH1038,Sri Balaji Medical,SE09,B73,B003,OTL02
+SH1039,Imran Kirana,SE09,B561,B002,OTL02
+SH1040,Mehfil Bakery,SE09,B73,B001,OTL18
+SH1041,Sri Kanipaka Vinayaka Kirana,SE09,B561,B002,OTL02
+SH1042,Radha Kirana Store,SE09,B562,B002,OTL02
+SH1043,Md Khaja Kirana,SE09,B561,B002,OTL02
+SH1044,Sri Gajanand Kirana,SE09,B557,B002,OTL02
+SH1045,Sai Bhavani Kirana,SE09,B563,B002,OTL02
+SH1046,New Sta Oven Bakery,SE09,B564,B001,OTL18
+SH1047,Anjaiah Generals,SE09,B565,B009,OTL18
+SH1048,Manikanta Bakery,SE09,B566,B001,OTL02
+SH1049,Indian Bakery,SE09,B73,B001,OTL16
+SH1050,Karthik Bakery,SE09,B73,B001,OTL18
+SH1051,Moin General,SE09,B567,B002,OTL02
+SH1052,Backeen Fresh Bakery,SE09,B73,B001,OTL01
+SH1053,Kubaji Kirana,SE09,B563,B002,OTL02
+SH1054,Jai Santhosh Matha Stationary Kiranam,SE09,B569,B002,OTL09
+SH1055,Sai Sri Kiranam Genarls,SE09,B570,B002,OTL02
+SH1056,We Care Enterprise,SE09,B570,B009,OTL02
+SH1057,Rajalaxmi Kiranam Genarls Store,SE09,B571,B002,OTL04
+SH1058,Suvidan Kiranam Genarls,SE09,B570,B002,OTL02
+SH1059,Radakrishna Genarls Store,SE09,B572,B002,OTL12
+SH1060,The Chocolate House,SE09,B573,B007,OTL12
+SH1061,Kings Bakery,SE09,B574,B001,OTL06
+SH1062,Krishna Stores,SE09,B575,B002,OTL09
+SH1063,Akshaya Kirana General Store,SE09,B576,B002,OTL02
+SH1064,Ice And Spice,SE09,B577,B004,OTL06
+SH1065,Rehman Kirana General Store,SE09,B574,B002,OTL18
+SH1066,Manohari Enterprises,SE09,B576,B002,OTL12
+SH1067,Sree Laxmi Padmavathi Kirana General Store,SE09,B576,B002,OTL18
+SH1068,Sai Tirumala Provision Store,SE09,B576,B002,OTL01
+SH1069,Jk Kirana General Store,SE09,B574,B009,OTL22
+SH1070,Shams Cool Drink And Ice Cream Parlour,SE09,B578,B004,OTL01
+SH1071,Ap Auto Service,SE06,B579,B014,OTL19
+SH1072,Hungers Hub,SE09,B581,B001,OTL18
+SH1073,Al Salwa Medical General Store,SE09,B577,B003,OTL22
+SH1074,Sheker Milk Point,SE09,B583,B009,OTL22
+SH1075,Khaleel Enterprises,SE09,B340,B002,OTL22
+SH1076,Santhoshi Kirana General Store,SE09,B576,B002,OTL18
+SH1077,Abdul Khader Kirana General Store,SE09,B584,B002,OTL22
+SH1078,Shahab Kirana General Store,SE09,B326,B002,OTL22
+SH1079,Allam Kirana General Store,SE09,B322,B002,OTL22
+SH1080,Ajwa Ice Cream Parlour,SE09,B585,B004,OTL22
+SH1081,M S Medical General Store,SE09,B586,B003,OTL02
+SH1082,A1 Grocery Store,SE09,B587,B002,OTL22
+SH1083,Rk Kirana General Store,SE09,B582,B002,OTL22
+SH1084,Srinivasa And Co Kirana General Store,SE09,B576,B002,OTL09
+SH1085,Tajs Asian Bakers,SE09,B588,B001,OTL20
+SH1086,Oriebt Medical General Store,SE09,B588,B003,OTL20
+SH1087,J B Milk Point,SE09,B586,B009,OTL09
+SH1088,A R Kirana General Store,SE09,B577,B002,OTL09
+SH1089,Easy Net,SE09,B574,B009,OTL22
+SH1090,Royal Kirana General Store,SE09,B574,B002,OTL22
+SH1091,Balaji Medical Hall,SE09,B589,B003,OTL18
+SH1092,Aum Sai Ram Kirana General Store,SE09,B576,B002,OTL12
+SH1093,Sai Kirana General Store,SE09,B576,B002,OTL02
+SH1094,S A Traders,SE09,B591,B002,OTL22
+SH1095,S K Gafoor And Brothers Kirana General Store,SE09,B593,B002,OTL22
+SH1096,Ak Grocery,SE09,B574,B009,OTL02
+SH1097,Khan Brothers Kirana General Store,SE09,B594,B002,OTL22
+SH1098,Ayan Stores,SE09,B595,B002,OTL22
+SH1099,Sree Krishna Super Mart,SE09,B576,B009,OTL02
+SH1100,99 Kiranam Genarls Store,SE09,B570,B002,OTL02
+SH1101,Sri Veerabadra Kirana General Store,SE09,B596,B002,OTL12
+SH1102,Sri Sai Raghavendra Kirana General Store,SE09,B597,B002,OTL02
+SH1103,Walls Mart,SE09,B322,B007,OTL18
+SH1104,Samad Kirana General Store,SE09,B576,B002,OTL02
+SH1105,Metro General Store,SE09,B574,B009,OTL09
+SH1106,Al Firdous Medical General Store,SE09,B593,B003,OTL05
+SH1107,Ahmads Medical General Store,SE09,B577,B003,OTL06
+SH1108,Zakir Kirana General Store,SE09,B598,B002,OTL22
+SH1109,H B Kirana General Store,SE09,B577,B002,OTL09
+SH1110,Masqati Chat,SE09,B599,B004,OTL19
+SH1111,Tahoor Home Needs,SE09,B600,B002,OTL19
+SH1112,Masqati Super Market,SE06,B599,B007,OTL09
+SH1113,Yakub Kirana General Store,SE09,B601,B002,OTL22
+SH1114,New Omer Kirana General Store,SE09,B584,B002,OTL22
+SH1115,Narasimha Kirana General Store,SE09,B576,B002,OTL12
+SH1116,Bakers K And Sweet House,SE09,B583,B001,OTL02
+SH1117,Quality Mart,SE06,B602,B007,OTL22
+SH1118,Vaishnavi Kirana General Store,SE09,B603,B009,OTL22
+SH1119,Siddiq Communication,SE09,B604,B011,OTL02
+SH1120,Choice Corner,SE09,B605,B002,OTL18
+SH1121,Durga Pathanjali Store,SE09,B576,B002,OTL04
+SH1122,Super Drugs,SE09,B606,B003,OTL02
+SH1123,Al Barkah Ice Cream Dairy Parlour,SE06,B607,B004,OTL22
+SH1124,Top Ice Cream Parlour,SE09,B574,B004,OTL02
+SH1125,Zuber Kirana General Store,SE09,B608,B002,OTL22
+SH1126,Naba Oce Creams And Snacks,SE09,B609,B001,OTL19
+SH1127,Sri Ramalingeshwara Kirana General Store,SE09,B598,B002,OTL15
+SH1128,Krishnaiah Kirana General Store,SE09,B610,B002,OTL22
+SH1129,Classic,SE09,B573,B004,OTL20
+SH1130,Sayyar Kirana Genera Store,SE09,B598,B002,OTL22
+SH1131,A K Daily Needs,SE09,B605,B007,OTL18
+SH1132,Needs Ice Cream Parlour,SE09,B612,B004,OTL19
+SH1133,Tasty Treat ,SE09,B578,B004,OTL05
+SH1134,Shifa Medical And General Store,SE09,B593,B003,OTL22
+SH1135,New Toffeq Kirana General Store,SE09,B613,B002,OTL22
+SH1136,M G Pharma Planet,SE09,B577,B003,OTL22
+SH1137,The Peoples Mart,SE09,B614,B007,OTL19
+SH1138,Jm Pharmacy,SE09,B615,B003,OTL19
+SH1139,Syed Brothers Kirana General Store,SE09,B574,B002,OTL09
+SH1140,Dasharath Kirana General Store,SE09,B577,B002,OTL06
+SH1141,Razak Kirana General Store,SE09,B616,B002,OTL02
+SH1142,Ghouse Kirana General Store,SE09,B326,B002,OTL22
+SH1143,Bhavani Provision Store,SE03,B617,B002,OTL01
+SH1144,Sri Balaji Munnalal Mithai Bhandar,SE03,B619,B008,OTL10
+SH1145,Sri Varsha Traders,SE03,B619,B002,OTL01
+SH1146,Sri Laxmi Venkateshwara Bangalore Iyengar Bakery,SE03,B619,B001,OTL01
+SH1147,Al Mizaan Bakery,SE03,B620,B001,OTL02
+SH1148,Kgn Bakery,SE03,B620,B001,OTL02
+SH1149,New 9Th Avenu Bakery,SE03,B621,B001,OTL01
+SH1150,Brown Bear Bakery,SE03,B623,B001,OTL01
+SH1151,Sri Saraswathi Provision Store,SE03,B624,B002,OTL01
+SH1152,Roghan Bakers,SE03,B619,B001,OTL01
+SH1153,Achireddy Sweet House,SE03,B623,B008,OTL01
+SH1154,Rajasthan Mithai Bhandar,SE03,B619,B008,OTL01
+SH1155,Balaji Premchand Sweet House,SE03,B625,B008,OTL01
+SH1156,Jai Ambika Ice Cream Parlour,SE03,B623,B004,OTL10
+SH1157,Agarwal Super Market ,SE03,B626,B007,OTL01
+SH1158,New Bangalore Iyengar Bakery,SE03,B624,B001,OTL03
+SH1159,Supreme Bakery ,SE03,B627,B001,OTL01
+SH1160,Sri Sai Ganesh Kirana Store,SE03,B619,B009,OTL01
+SH1161,Sri Laxmi Venkateshwara Banglore Iyengar Bakery,SE03,B628,B001,OTL01
+SH1162,Sri Chandva Kirana General Store,SE03,B629,B002,OTL06
+SH1163,Jayapradha Enterprise,SE03,B619,B006,OTL03
+SH1164,Bhagyalakshmi Kirana General Store,SE03,B630,B002,OTL01
+SH1165,Naresh Kirana General Store,SE03,B631,B002,OTL06
+SH1166,Balaji Bakery,SE03,B631,B001,OTL03
+SH1167,Prime Bakers,SE03,B623,B001,OTL01
+SH1168,Imperial Bakers,SE03,B619,B001,OTL01
+SH1169,Model Milk Products Ice Cream Parlour,SE03,B632,B004,OTL01
+SH1170,Joshi Mithai Chat Bhandar,SE03,B623,B008,OTL08
+SH1171,S R Bangalore Iyenger Bakery,SE03,B623,B001,OTL03
+SH1172,Sri Sai Swetha Peoples Needs Provisions,SE03,B633,B002,OTL08
+SH1173,Sangam Kirana Store,SE03,B623,B002,OTL03
+SH1174,Sai Ram Kirana Store,SE03,B630,B002,OTL01
+SH1175,Yogesh Kirana General Store,SE03,B634,B002,OTL01
+SH1176,Krupa Priyanka Bakery,SE03,B635,B001,OTL03
+SH1177,Sukha Sagara Restaurant,SE03,B636,B006,OTL03
+SH1178,Shiv Shakti Provision Store,SE03,B628,B002,OTL03
+SH1179,Padmavathi Provision Store,SE03,B637,B002,OTL01
+SH1180,Sri Balaji Naveen Mithai Bhandar,SE03,B635,B008,OTL03
+SH1181,Sree Bhavani Provision Store,SE03,B636,B009,OTL01
+SH1182,Hot Cakes Bakery,SE03,B639,B001,OTL03
+SH1183,Sri Laxmi Traders,SE03,B640,B002,OTL01
+SH1184,Ram Dev Kgs,SE03,B619,B002,OTL02
+SH1185,Bairang Kirana General Store,SE03,B641,B002,OTL01
+SH1186,Sri Raja Rajeshwari Kirana General Store,SE03,B642,B009,OTL01
+SH1187,Kvr Bakers,SE03,B643,B001,OTL01
+SH1188,Jai Bhavani Enterprise,SE03,B644,B009,OTL03
+SH1189,Jagadamba Kirana General Store,SE03,B645,B002,OTL01
+SH1190,Imperial Bekary,SE03,B619,B001,OTL02
+SH1191,Kvr Bakery,SE03,B619,B001,OTL02
+SH1192,Mallikarjuna Kgs,SE03,B619,B002,OTL02
+SH1193,Shiva Cool Drinks,SE03,B647,B006,OTL01
+SH1194,Sujatha Kgs,SE03,B619,B002,OTL02
+SH1195,Mallapur Shopping Center,SE01,B648,B002,OTL02
+SH1196,Sri Vasavi Santosh Super Market,SE01,B649,B007,OTL05
+SH1197,New Ramdev Kirana Genral Store,SE01,B650,B002,OTL05
+SH1198,Hari Om Kirana General Store,SE01,B652,B002,OTL05
+SH1199,Jyothi Milk Agency,SE01,B653,B004,OTL02
+SH1200,Slj Bangalore Iyengar Bakery,SE01,B653,B001,OTL02
+SH1201,Bharath Stores Grains Kirana General,SE08,B173,B002,OTL02
+SH1202,Murshy Spices Kgs,SE08,B654,B002,OTL22
+SH1203,K G N Star Point Kiranam And General Store,SE08,B655,B002,OTL02
+SH1204,Blossom Bakery,SE08,B492,B001,OTL01
+SH1205,Khadeer Kiranam And General Store,SE08,B657,B002,OTL01
+SH1206,Sarvi Bakers,SE08,B658,B001,OTL01
+SH1207,Aliya Confectionery,SE08,B659,B011,OTL01
+SH1208,Sri Nidhi Kirana,SE04,B660,B002,OTL02
+SH1209,Sri Sai Ram Bakery,SE04,B661,B001,OTL01
+SH1210,Jai Sree Kirana,SE04,B662,B002,OTL05
+SH1211,Sri Balaji Haritha Mithai Bandar,SE04,B663,B008,OTL05
+SH1212,Hyderabad Sweet House,SE04,B664,B008,OTL05
+SH1213,Veerabhadra Kirana,SE04,B661,B002,OTL01
+SH1214,Om Sai Bakery,SE04,B665,B001,OTL02
+SH1215,Rsp Traders,SE04,B141,B002,OTL05
+SH1216,Khaja Kirana,SE04,B140,B002,OTL02
+SH1217,New Delux Bakery,SE04,B665,B001,OTL02
+SH1218,Sri Raghavendra Stationary And Ice Cream Parlour,SE04,B666,B004,OTL02
+SH1219,Bakers 9,SE04,B661,B001,OTL18
+SH1220,Sai Purified Drinking Water And Icecream ,SE04,B141,B006,OTL01
+SH1221,Kishor Kirana,SE04,B668,B002,OTL02
+SH1222,Pandu Kirana,SE04,B662,B002,OTL02
+SH1223,Balaji Bhagvathi General Store,SE04,B667,B002,OTL02
+SH1224,Kanakadara Kirana,SE04,B669,B002,OTL02
+SH1225,Mahila Supermarket,SE04,B661,B007,OTL01
+SH1226,L J Bakers,SE04,B480,B001,OTL05
+SH1227,Delhi Mithai Wala,SE04,B661,B008,OTL01
+SH1228,Sri Sairam Bakers,SE04,B661,B001,OTL01
+SH1229,Sri Sai Maruthi Kirana,SE04,B670,B002,OTL02
+SH1230,Sri Venkateswara Kirana,SE04,B671,B002,OTL02
+SH1231,Sri Annapurna Supermarket,SE04,B672,B007,OTL05
+SH1232,Sri Balaji Kirana And General,SE04,B673,B002,OTL02
+SH1233,Sri R Mart,SE04,B676,B007,OTL18
+SH1234,Sai Prakash Kirana,SE04,B672,B002,OTL02
+SH1235,Sonu Bakers,SE04,B677,B001,OTL05
+SH1236,Sri Venkateswara Kirana And General,SE04,B678,B002,OTL01
+SH1237,The Sweet Bite Bakery,SE04,B671,B001,OTL02
+SH1238,D S Mart,SE04,B679,B007,OTL05
+SH1239,Break Time Bakers,SE04,B677,B001,OTL01
+SH1240,G R Reddy Bakers,SE04,B680,B001,OTL01
+SH1241,Basics Daily Store,SE04,B681,B002,OTL18
+SH1242,Priya Sweets And Bakery,SE04,B661,B001,OTL01
+SH1243,Sri Balaji Nathmal Kirana,SE04,B671,B002,OTL18
+SH1244,New Ruchi Bangloor Bakery,SE04,B672,B001,OTL05
+SH1245,Sri Laxmi Narayana Kirana,SE04,B671,B002,OTL02
+SH1246,Sri Cmg Baker,SE04,B661,B001,OTL18
+SH1247,Laxmi Narshimha Kirana,SE04,B672,B002,OTL05
+SH1248,Family Mart,SE04,B98,B007,OTL10
+SH1249,Kanishika Medical General Store,SE04,B481,B003,OTL22
+SH1250,C5 Bakers,SE04,B480,B001,OTL05
+SH1251,Sri Laxmi Ganapathi Kirana,SE04,B683,B002,OTL02
+SH1252,Shashikantha Kirana,SE04,B684,B002,OTL02
+SH1253,Dairy Dream ,SE04,B661,B001,OTL05
+SH1254,New Ganesh Kirana,SE04,B672,B002,OTL05
+SH1255,Pharmacy World Medical Store,SE08,B685,B003,OTL01
+SH1256,S K General Store Stationary,SE08,B98,B002,OTL01
+SH1257,Sahara General Store,SE08,B98,B002,OTL05
+SH1258,Blue Ribbon Bakery,SE08,B98,B001,OTL05
+SH1259,Asim Store Kirana General Store,SE08,B98,B002,OTL01
+SH1260,Vinayaka Store,SE08,B98,B002,OTL05
+SH1261,Sri Krishna Traders Kirana General Store,SE08,B98,B002,OTL05
+SH1262,Mahalaxmi Medical Store,SE08,B686,B003,OTL18
+SH1263,Fine Fare Super Market,SE08,B98,B007,OTL05
+SH1264,Express Super Market,SE08,B98,B007,OTL20
+SH1265,Tasty Byte,SE08,B687,B006,OTL16
+SH1266,Benz Corner,SE08,B688,B006,OTL12
+SH1267,S K Bakers Chinese Fast Food,SE08,B98,B001,OTL01
+SH1268,T M Store,SE08,B98,B002,OTL01
+SH1269,New Shalimar Sweets Bakery,SE08,B685,B008,OTL13
+SH1270,Morine Bakery,SE08,B686,B001,OTL18
+SH1271,Prime Pharmacy General Store,SE08,B688,B003,OTL12
+SH1272,Sadiya Kirana General Store,SE08,B98,B002,OTL12
+SH1273,Baskin Bakers,SE08,B689,B001,OTL10
+SH1274,Super Bakery Store,SE08,B686,B001,OTL18
+SH1275,Alams Sweets,SE08,B687,B008,OTL01
+SH1276,New Brothers Medical General Store ,SE08,B687,B003,OTL01
+SH1277,Kohinoor Home Needs,SE08,B685,B009,OTL01
+SH1278,Soft Bite Bakery,SE08,B98,B001,OTL01
+SH1279,Al Madina Ashraf Kirana And General Store,SE08,B98,B002,OTL02
+SH1280,Nisha Kirana General Store,SE08,B98,B002,OTL01
+SH1281,Bajarang Kirana And General Store,SE08,B690,B002,OTL02
+SH1282,New Mysore Ghee Stores,SE08,B685,B013,OTL01
+SH1283,De Fresh,SE08,B691,B001,OTL18
+SH1284,G B Super Market,SE08,B692,B007,OTL05
+SH1285,Badamhouse Bakery,SE08,B693,B001,OTL02
+SH1286,Al Safa Dairy Milk Icecream Parlour,SE08,B694,B004,OTL02
+SH1287,Sreevani Store,SE08,B694,B009,OTL02
+SH1288,V Mart,SE08,B695,B007,OTL18
+SH1289,Sri Balaji Mithai Bandar,SE08,B693,B001,OTL10
+SH1290,Anusha Super Market,SE08,B696,B002,OTL18
+SH1291,Azizia Super Market,SE08,B694,B007,OTL02
+SH1292,Sri Grand Bazar Super Market,SE08,B697,B007,OTL22
+SH1293,Best Price Whole Sale Medical Shop,SE08,B698,B003,OTL18
+SH1294,New Malabar Kirana General Store,SE08,B694,B002,OTL02
+SH1295,Karuna Kirana General Store,SE08,B475,B002,OTL22
+SH1296,Ganesh Mithai Bander,SE08,B672,B008,OTL05
+SH1297,Mahalaxmi General Store,SE08,B475,B009,OTL22
+SH1298,Noble Super Market,SE08,B475,B007,OTL22
+SH1299,Abdul Samad Kirana General Store,SE08,B697,B002,OTL22
+SH1300,Tactikal Kirana General Store,SE08,B697,B002,OTL22
+SH1301,Delight Delicious,SE08,B98,B001,OTL12
+SH1302,Rohith Kirana General Store,SE08,B475,B002,OTL22
+SH1303,A1 Kirana General Store,SE08,B697,B002,OTL22
+SH1304,Al Kabeer Super Market Stationary And Cosmetics,SE08,B699,B007,OTL22
+SH1305,Health Plus Pharmacy,SE08,B700,B003,OTL22
+SH1306,Devara Bhavani Supermarket,SE08,B98,B007,OTL18
+SH1307,Abddul Razzak Kiranam And General Store,SE08,B702,B002,OTL02
+SH1308,Lucky Bakery,SE08,B703,B001,OTL02
+SH1309,Bismillah Ahmed Kiranam And General Store,SE08,B690,B002,OTL01
+SH1310,Bhavani Kiranam And General Store,SE08,B704,B002,OTL01
+SH1311,Shanthi Sweets And Bekars,SE08,B701,B001,OTL01
+SH1312,Ibrahim Cooldrinks And Ice Creams,SE08,B690,B004,OTL02
+SH1313,Prince Super Market,SE08,B690,B002,OTL02
+SH1314,Fresh N Fresh Bakers,SE08,B705,B001,OTL01
+SH1315,New Delight Bakery,SE08,B690,B001,OTL01
+SH1316,Bekars Port And Ice Cream Parlour,SE08,B706,B001,OTL01
+SH1317,All Day Bakers Sweet,SE08,B447,B001,OTL02
+SH1318,Bakers Magic,SE08,B707,B001,OTL01
+SH1319,Maaz Kiranam And General Store,SE08,B708,B002,OTL01
+SH1320,Aala Boom Icecream Parlour,SE08,B707,B004,OTL01
+SH1321,Regal Kiranam And General Store,SE08,B709,B002,OTL02
+SH1322,Green Super Market,SE08,B173,B007,OTL22
+SH1323,The Bekars Cakes And Confectionary,SE08,B708,B001,OTL01
+SH1324,Shiva Supermarke,SE08,B707,B002,OTL01
+SH1325,Star Kiranam And General Store And Stationery,SE08,B704,B002,OTL02
+SH1326,Marwah Kiranam And General Store,SE08,B690,B002,OTL02
+SH1327,A M Multi Store,SE08,B690,B002,OTL02
+SH1328,Stop N Go,SE08,B98,B001,OTL01
+SH1329,Zakir Kiranam And General Store,SE08,B690,B002,OTL02
+SH1330,Hussains Bakery ,SE08,B702,B001,OTL02
+SH1331,Star Medicals And General Store,SE08,B710,B003,OTL01
+SH1332,Venus Ice Cream Parlour,SE08,B711,B004,OTL01
+SH1333,New Bakers,SE08,B690,B001,OTL01
+SH1334,Delhiwala Sweets And Chat,SE08,B707,B008,OTL01
+SH1335,Afzal Kiranam And General Store,SE08,B712,B002,OTL01
+SH1336,New Zafar Kiranam And General Store,SE08,B702,B002,OTL01
+SH1337,Rahath Cooldrinks ,SE08,B713,B006,OTL01
+SH1338,Laxmi Shailaja Kg Store,SE08,B697,B002,OTL22
+SH1339,A M Medical Hall,SE08,B714,B003,OTL22
+SH1340,Italian Pizzeria ,SE08,B707,B004,OTL01
+SH1341,S S Kiranam And General Store,SE08,B690,B002,OTL01
+SH1342,A 1 Cooldrinks ,SE08,B715,B006,OTL01
+SH1343,Arman Cooldrinks And Icecreams And Stationery,SE08,B716,B004,OTL02
+SH1344,Ali Enterprises,SE08,B690,B004,OTL02
+SH1345,Arman Cooldrinks And Ice Cream,SE08,B690,B004,OTL02
+SH1346,H B Kiranam And General Store,SE08,B702,B002,OTL02
+SH1347,Quba Bakery,SE08,B718,B001,OTL01
+SH1348,Black Eagle Tea Taj Traders,SE08,B719,B002,OTL01
+SH1349,Siddra Confectionary,SE08,B690,B011,OTL02
+SH1350,Ambica Medical And General Store,SE08,B720,B003,OTL01
+SH1351,Hamed And Brothers Kiranam And General Store,SE08,B702,B002,OTL05
+SH1352,Super Kiranam And General Store,SE08,B704,B002,OTL02
+SH1353,Royal Kiranam And General Store,SE08,B721,B002,OTL02
+SH1354,Khans Icecream Parlour,SE08,B690,B004,OTL01
+SH1355,Shree Mayi Super Market,SE09,B722,B002,OTL01
+SH1356,Om Sai Ice Cream Parlour,SE09,B722,B004,OTL01
+SH1357,P Narsaiha Kiranam Genera Store,SE05,B723,B002,OTL01
+SH1358,Grishma Kiranam General Store ,SE05,B723,B009,OTL01
+SH1359,Girish Bekery,SE05,B724,B001,OTL01
+SH1360,Bacar Shoplove At Farst Shop,SE05,B725,B001,OTL01
+SH1361,Valentines Bekary,SE05,B725,B001,OTL12
+SH1362,Bake My Day Bakers Confectionery,SE05,B726,B001,OTL01
+SH1363,Sri Vasavi Matha Kiranageneralstore,SE05,B727,B002,OTL22
+SH1364,Bangalore Iyanger Bakery,SE05,B728,B001,OTL03
+SH1365,Yours Univers Bakery And Cakes ,SE03,B729,B001,OTL01
+SH1366,Balaji Manish Mithai Bandar ,SE03,B729,B008,OTL01
+SH1367,Sai Balaji Kirana And General Stores,SE03,B730,B002,OTL02
+SH1368,Hari Om Kirana And General Stores ,SE03,B731,B002,OTL01
+SH1369,Bengloor Ayyangar Bakery ,SE03,B729,B001,OTL01
+SH1370,Jai Hanuman Kirana,SE04,B732,B002,OTL02
+SH1371,Lorven Bakery,SE04,B733,B001,OTL18
+SH1372,Sri Balaji Sunil Mitai Bandar,SE04,B734,B008,OTL12
+SH1373,As Bakers,SE04,B735,B001,OTL01
+SH1374,Dolpin Misore Hotel,SE04,B396,B001,OTL17
+SH1375,Ramdev Kirana General Store,SE04,B734,B002,OTL06
+SH1376,Navatha Bakery,SE06,B733,B001,OTL18
+SH1377,Maruthi Kirana General Store,SE04,B396,B002,OTL12
+SH1378,Choudhary Kirana General Store,SE04,B396,B002,OTL09
+SH1379,Priyansi Bangulure Bakery,SE04,B735,B001,OTL17
+SH1380,Bakery Bite,SE04,B91,B001,OTL07
+SH1381,Kubenthra Venkateshwara Bangalore Iyangar Bakery,SE04,B733,B001,OTL18
+SH1382,New Sri Balaji Kirana General Store,SE04,B733,B002,OTL22
+SH1383,Licks N Bites,SE04,B736,B001,OTL07
+SH1384,Naveen Kirana General Store,SE04,B396,B002,OTL05
+SH1385,Eats N Treats,SE04,B737,B001,OTL01
+SH1386,Prakash Kirana General Store,SE04,B396,B002,OTL05
+SH1387,Mataji Kirana General Store,SE04,B396,B002,OTL05
+SH1388,Smart Supermarket,SE04,B739,B007,OTL02
+SH1389,Sri Tulja Bhavani Traders,SE04,B396,B002,OTL22
+SH1390,Gajanand Kirana,SE04,B396,B002,OTL17
+SH1391,Supraja Super Market,SE04,B740,B007,OTL18
+SH1392,Heritage,SE04,B733,B002,OTL18
+SH1393,Nava Durga Kirana General Store,SE04,B741,B002,OTL18
+SH1394,Sun Medical And General Store,SE04,B742,B003,OTL01
+SH1395,Radha Krishna Kirana General Store,SE04,B743,B002,OTL02
+SH1396,Nandini Bangalore Iyengar Bakery,SE04,B744,B001,OTL22
+SH1397,Vishnu Kirana General Store,SE04,B745,B002,OTL22
+SH1398,Evergreen Kirana,SE04,B746,B002,OTL02
+SH1399,Ashapur Kirana General Store,SE04,B747,B002,OTL02
+SH1400,Tachi Super Market,SE04,B396,B007,OTL22
+SH1401,Bismillah Kirana,SE04,B746,B002,OTL22
+SH1402,Smk Kirana General Store,SE04,B748,B002,OTL22
+SH1403,Mmr Kirana,SE04,B749,B002,OTL02
+SH1404,Khaju House,SE04,B269,B008,OTL01
+SH1405,Vijaya Medical General Store,SE04,B750,B003,OTL22
+SH1406,Mahalaxmi Kirana Store,SE04,B736,B002,OTL22
+SH1407,Faizan Sweets And Bakery,SE04,B269,B001,OTL18
+SH1408,Shalimar Xerox And Milk Parlour,SE04,B751,B009,OTL02
+SH1409,Md Rafeeq Kirana,SE04,B752,B002,OTL07
+SH1410,M K Kirana,SE04,B753,B002,OTL02
+SH1411,Jalil Cooldrinks And Icecream,SE04,B269,B006,OTL18
+SH1412,Jaleel Kirana,SE04,B754,B002,OTL18
+SH1413,Sohail Kirana,SE04,B752,B002,OTL02
+SH1414,Asad Kirana,SE04,B755,B002,OTL18
+SH1415,Husain Achar Icecream And Cooldrinks,SE04,B756,B006,OTL02
+SH1416,Maqbool Kirana,SE04,B746,B002,OTL02
+SH1417,Warda Kirana,SE04,B755,B002,OTL02
+SH1418,Ayyanmaz Kirana,SE04,B753,B002,OTL02
+SH1419,White House Sweets And Bakery,SE04,B755,B001,OTL22
+SH1420,Mohammedia Ice Cream And Cooldrinks,SE04,B755,B006,OTL18
+SH1421,Mohammed Cool Point Ad Generals,SE04,B757,B006,OTL18
+SH1422,Fiza Sweets And Bakery,SE04,B327,B001,OTL18
+SH1423,Al Aziz Kirana,SE04,B758,B002,OTL02
+SH1424,Om Sri Sai Kirana,SE04,B753,B002,OTL02
+SH1425,Maaz Cooldrinks And Pan Shop,SE04,B759,B006,OTL02
+SH1426,Decent Mini Supermarket,SE04,B760,B002,OTL02
+SH1427,Khaleel Kirana,SE04,B327,B002,OTL02
+SH1428,Madina Kirana,SE04,B327,B002,OTL02
+SH1429,Cristal Home Needs,SE04,B759,B002,OTL05
+SH1430,Mohammedia Medicals,SE04,B755,B003,OTL18
+SH1431,Ahmed Kirana,SE04,B761,B002,OTL02
+SH1432,Allauddin Kirana,SE04,B754,B002,OTL22
+SH1433,M A Kirana,SE04,B761,B002,OTL02
+SH1434,Syeds Kirana,SE04,B327,B002,OTL02
+SH1435,Ahmeds Kirana,SE04,B761,B002,OTL02
+SH1436,Yousufain Bakery And Sweets,SE04,B762,B001,OTL07
+SH1437,Parkavi Bakery,SE01,B763,B001,OTL01
+SH1438,Sri Jagadamba Medical,SE08,B764,B003,OTL09
+SH1439,Viswanath Kirana General Store,SE08,B765,B002,OTL22
+SH1440,Durga Medical Hall,SE08,B766,B003,OTL22
+SH1441,Raj Medical Hall,SE08,B767,B003,OTL22
+SH1442,S Rajaiah Kirana General Store,SE08,B766,B002,OTL22
+SH1443,Delite Bakery,SE08,B768,B001,OTL22
+SH1444,Euro Bakers,SE08,B769,B001,OTL22
+SH1445,Al Kauser Milk Point,SE08,B770,B002,OTL22
+SH1446,Narayani Kirana General Store,SE08,B771,B002,OTL22
+SH1447,Kulfi House,SE08,B772,B002,OTL22
+SH1448,Ahmed Mini Super Market,SE08,B769,B002,OTL22
+SH1449,Jai Mataji Kirana General Store,SE08,B475,B002,OTL22
+SH1450,M S Store,SE08,B773,B009,OTL22
+SH1451,Balaji Provision Store,SE08,B773,B002,OTL22
+SH1452,Nice Bakery And General Store,SE08,B774,B001,OTL22
+SH1453,Sukh Sagar Cooldrinks,SE08,B775,B006,OTL22
+SH1454,Vijetha,SE03,B777,B007,OTL01
+SH1455,Usha Retail Stores,SE03,B777,B009,OTL01
+SH1456,Star Market,SE03,B778,B007,OTL01
+SH1457,Santhosh Stores Kirana Generao Milk And Daily Produts,SE05,B779,B013,OTL01
+SH1458,Santosh Store ,SE05,B780,B009,OTL02
+SH1459,Jest Bekary,SE05,B725,B001,OTL01
+SH1460,Laxmi Kiranam,SE05,B781,B009,OTL01
+SH1461,Cafe House,SE05,B725,B001,OTL13
+SH1462,Balaji Kishanlal Mithai Bandar,SE05,B782,B001,OTL01
+SH1463,Royal Bekars,SE05,B783,B001,OTL01
+SH1464,New Goa Bakaru,SE05,B784,B001,OTL01
+SH1465,Sri S S Bakers,SE05,B786,B001,OTL01
+SH1466,Sai Dwaraka Kiranam And General Store,SE03,B787,B002,OTL01
+SH1467,Shree Shanthi General Store,SE03,B788,B002,OTL01
+SH1468,Mahesh Kiranam And General Store,SE03,B789,B002,OTL01
+SH1469,Shree Sharadha Store,SE03,B790,B002,OTL01
+SH1470,Guilt Trip Cupcake Cakes And More,SE03,B791,B004,OTL01
+SH1471,Meena Baykers,SE03,B792,B001,OTL01
+SH1472,Sri Rahul Store,SE03,B792,B002,OTL02
+SH1473,We Mart,SE03,B792,B002,OTL02
+SH1474,Cafe Rehan Bakery,SE03,B792,B001,OTL01
+SH1475,Sri Kathyayani Super Market,SE03,B793,B007,OTL01
+SH1476,Urban Supermarket,SE03,B792,B002,OTL01
+SH1477,Shivam Kgs,SE01,B795,B009,OTL02
+SH1478,Cheery Bakery,SE01,B796,B001,OTL06
+SH1479,Balaji Bijasini Mini Supermarket,SE06,B798,B002,OTL02
+SH1480,Ramdev Kirana And General,SE03,B799,B002,OTL02
+SH1481,Vijayalaxmi Kirana Genaral,SE10,B801,B002,OTL01
+SH1482,Babaji Kirana,SE03,B395,B002,OTL02
+SH1483,Mysore Bakery,SE03,B804,B001,OTL02
+SH1484,Sri Balaji Kirana And General Store,SE03,B805,B002,OTL02
+SH1485,Sri Ganesh Mithai Bhandar,SE03,B806,B008,OTL02
+SH1486,Durga Ambika Iyengar Bakery,SE03,B806,B001,OTL21
+SH1487,Sri Sai Mani Kanta Kirana,SE03,B801,B002,OTL22
+SH1488,Quthubullapur Bakery,SE03,B801,B001,OTL21
+SH1489,Psk Super Market,SE03,B807,B002,OTL18
+SH1490,Sri Ram Devi Kiranam And General Store,SE03,B808,B002,OTL22
+SH1491,Jeetu Ice Cream Parlour,SE03,B809,B004,OTL01
+SH1492,Thirumala Bakery,SE10,B810,B001,OTL01
+SH1493,M S Yadav Kirna Janaral Stories,SE03,B811,B009,OTL02
+SH1494,Sri Surya Kirana Genaral,SE03,B812,B009,OTL02
+SH1495,Sai Drista Stores,SE10,B811,B009,OTL02
+SH1496,Limra Bakery Cataring Service,SE03,B811,B001,OTL02
+SH1497,Rolex Cake House,SE05,B813,B001,OTL02
+SH1498,Ragvendra Kiranam Generl Store,SE05,B725,B002,OTL01
+SH1499,Jai Balaji Ratanalal Dry Frutits Rice And Kirana Genaral Store,SE05,B814,B002,OTL01
+SH1500,Shiva Sai Kgs,SE05,B446,B002,OTL02
+SH1501,Sri Balaji Ram Ratan Mithai Bhandar,SE05,B399,B008,OTL02
+SH1502,Mukeem Bekary,SE05,B399,B001,OTL02
+SH1503,Mukesh Communication ,SE05,B399,B002,OTL02
+SH1504,Choice Kgs,SE05,B399,B002,OTL02
+SH1505,Vishvamukha Kgs,SE05,B446,B002,OTL02
+SH1506,Devi Medical General Store,SE05,B399,B003,OTL02
+SH1507,Seema Bekary,SE05,B399,B001,OTL02
+SH1508,Sri Balaji Arun Mithai Bhandar,SE05,B815,B008,OTL01
+SH1509,Suraj Gokul Juice Point,SE05,B446,B006,OTL02
+SH1510,Sri Gayatri Super Market,SE03,B816,B009,OTL06
+SH1511,Sri Balaji Kirana General Stores,SE03,B816,B009,OTL11
+SH1512,Mythri Bakers,SE03,B817,B001,OTL02
+SH1513,Chandana Kgs ,SE03,B818,B002,OTL02
+SH1514,Sri Laxmi Cake Palace,SE03,B619,B001,OTL02
+SH1515,Digamber Kgs,SE03,B818,B002,OTL02
+SH1516,Mahalaxmi Mithai Bhandar,SE03,B619,B008,OTL02
+SH1517,Sri Laxmi Venkateshwara Iyengar Bekary,SE03,B619,B001,OTL02
+SH1518,Sri Balaji Surajmal Mithai Bhandar,SE03,B619,B008,OTL02
+SH1519,Royal Cakes Bekary,SE03,B819,B001,OTL02
+SH1520,Madhavi Kgs,SE03,B819,B002,OTL02
+SH1521,Sri Sai Kirana Store,SE03,B818,B002,OTL02
+SH1522,Laxmi Kirana Genaral Store,SE09,B820,B002,OTL02
+SH1523,Baker Q,SE09,B821,B001,OTL02
+SH1524,Ashok Store ,SE09,B821,B002,OTL02
+SH1525,Masqati Icecream,SE09,B821,B004,OTL02
+SH1526,Balaji Ganesh Mithai Bandar,SE09,B822,B008,OTL01
+SH1527,Indian Super Corner,SE09,B823,B004,OTL02
+SH1528,Delicious Bakers,SE09,B824,B001,OTL05
+SH1529,Sri Sairam Kirana Genaral Store,SE09,B823,B002,OTL02
+SH1530,Sri Srinivasa Kirana Genaral Store,SE09,B825,B002,OTL02
+SH1531,Balaji Ram Jeevan Mithai Bhandar,SE09,B826,B008,OTL18
+SH1532,Sri Venkateshwara Ice Cream Parlour,SE09,B827,B009,OTL18
+SH1533,Balaji Mithai Wala,SE09,B826,B008,OTL18
+SH1534,Banglore Iyengars Bakery,SE09,B824,B001,OTL04
+SH1535,Classic Ice Cream Parlar,SE09,B828,B004,OTL01
+SH1536,Lalasa Kirana General Store,SE09,B826,B002,OTL18
+SH1537,Srikanth Kirana And Genrea Store,SE09,B826,B002,OTL15
+SH1538,Vasundara Kirana General Store,SE09,B831,B002,OTL02
+SH1539,Sri Laxmi Narasimha Swamy Kirana General Store,SE09,B829,B002,OTL05
+SH1540,Dayakar Kirana General Store ,SE09,B832,B002,OTL02
+SH1541,Ssrk Traders,SE09,B829,B002,OTL05
+SH1542,Sai Venkateshwara Kirana General Store,SE09,B829,B002,OTL02
+SH1543,Pavan Kirana General Store,SE09,B833,B002,OTL13
+SH1544,Dayanand Kirana General Store,SE09,B833,B002,OTL02
+SH1545,Sk Kirana General Store,SE09,B834,B002,OTL15
+SH1546,Aashritha Kirana General Store,SE09,B829,B002,OTL05
+SH1547,Banglore Iyengar Bakery,SE09,B829,B001,OTL05
+SH1548,Devi Kirana General Store,SE09,B834,B009,OTL02
+SH1549,Gowthami Kirana General Store,SE09,B834,B002,OTL15
+SH1550,S K Kirana,SE09,B836,B002,OTL18
+SH1551,Tipsi Tapsi Backery,SE09,B837,B001,OTL01
+SH1552,Tirumala Bakery,SE03,B838,B001,OTL18
+SH1553,Sri Raghavendra Iyengari Bakery,SE03,B839,B001,OTL12
+SH1554,Variety Super Market,SE03,B840,B007,OTL05
+SH1555,Urban Super Mart Supermarket,SE03,B841,B007,OTL05
+SH1556,Ding Dong Super Market,SE03,B842,B007,OTL05
+SH1557,Gro Mart,SE03,B844,B002,OTL02
+SH1558,Taruni Super Market,SE03,B840,B007,OTL05
+SH1559,Neel Kamal Super Market,SE03,B845,B002,OTL02
+SH1560,S V Bangalore Bakery,SE03,B846,B001,OTL02
+SH1561,Sai Rithupa Bakery,SE03,B847,B001,OTL02
+SH1562,Shiva Balaji Supar Market,SE03,B848,B002,OTL02
+SH1563,S L J Bangalore Iyengar Backery,SE03,B849,B001,OTL10
+SH1564,Bekers Corners,SE03,B816,B001,OTL05
+SH1565,Friends Bakery,SE03,B850,B001,OTL18
+SH1566,Cake House,SE03,B851,B012,OTL01
+SH1567,Sri Lakshminarsimhaswamy Kirana And Generalstore,SE03,B850,B002,OTL02
+SH1568,Jyothi Kirana And Generalstore,SE03,B852,B009,OTL10
+SH1569,Sri Balaji Kirana Genaral Store,SE09,B229,B002,OTL02
+SH1570,Sai Shiva Kirana General Store,SE09,B229,B002,OTL10
+SH1571,Hi King Bakery,SE09,B853,B001,OTL10
+SH1572,Sri Nidhi Kirana Genaral Store,SE09,B854,B002,OTL02
+SH1573,Ms Nathmal Kirana General Store,SE09,B855,B002,OTL22
+SH1574,Metro Bazar Kirana General Store,SE09,B856,B002,OTL22
+SH1575,S K B Enterprises,SE09,B857,B002,OTL09
+SH1576,Balaji Ramchander Mithai Bhandar,SE09,B859,B008,OTL18
+SH1577,Oasis Bakry And General Store,SE09,B857,B001,OTL18
+SH1578,Murtuza Kirana General Store,SE09,B860,B002,OTL02
+SH1579,Ahmed Kirana General,SE09,B861,B002,OTL02
+SH1580,Sri Lakshmi Narayana Kirana General Store,SE09,B862,B002,OTL22
+SH1581,Universal Medical General Store,SE09,B860,B003,OTL22
+SH1582,Daily Basket Grocery And General Store,SE09,B853,B002,OTL02
+SH1583,Al Asrar Kirana General Store,SE09,B857,B002,OTL02
+SH1584,S L V Kirana General Store,SE09,B863,B002,OTL06
+SH1585,Sathwik Kirana General Store,SE09,B857,B002,OTL22
+SH1586,Nizam Kirana General Store,SE09,B860,B002,OTL02
+SH1587,Ma Bakery,SE09,B864,B001,OTL18
+SH1588,Sri Sai Satyanarayana Medical General Store,SE09,B857,B003,OTL18
+SH1589,Sai Sukrutha Kirana General Store,SE09,B865,B002,OTL22
+SH1590,Kix Bakers,SE09,B857,B001,OTL05
+SH1591,Sri Balaji Kiranam And Genaral Store,SE09,B866,B002,OTL01
+SH1592,Aadi Medical Hall,SE09,B857,B003,OTL12
+SH1593,Ashwaq Confectionery,SE09,B867,B011,OTL22
+SH1594,Sree Balaji Kirana General Store,SE06,B868,B002,OTL01
+SH1595,S R Ayyangar Bakery,SE06,B869,B004,OTL02
+SH1596,Sri Kanakadurga Kirana General Store,SE06,B225,B002,OTL02
+SH1597,Venkateswara Kiranam,SE06,B870,B002,OTL02
+SH1598,Sri Kanakadurga Kiranam,SE06,B870,B002,OTL02
+SH1599,Sri Sai Ram Provisions,SE06,B225,B002,OTL05
+SH1600,Maruthi Kiranam Genarls,SE06,B870,B002,OTL02
+SH1601,Shri Jai Bhavani Kirana And General Store,SE06,B871,B002,OTL05
+SH1602,Mahalaxmi Rice Kgs,SE06,B225,B002,OTL02
+SH1603,Swasri Kirana And General Store,SE06,B225,B002,OTL05
+SH1604,More Supper Market,SE06,B549,B007,OTL20
+SH1605,Green Apple,SE06,B573,B009,OTL04
+SH1606,Ambees Bakery,SE03,B872,B001,OTL12
+SH1607,Anasuya Super Market,SE03,B873,B007,OTL12
+SH1608,Sri Ramdev Kirana General Store,SE03,B874,B002,OTL05
+SH1609,Sri Balaji Rameshwarlal Mithai Bandar,SE03,B663,B008,OTL12
+SH1610,Baker S Den Bakery,SE03,B875,B001,OTL05
+SH1611,Cake House Bakery Confectionery,SE03,B663,B001,OTL12
+SH1612,Sri Devata Mini Super Market,SE03,B876,B002,OTL16
+SH1613,Indian Bazar,SE03,B877,B010,OTL01
+SH1614,Rus Bakery,SE03,B877,B001,OTL02
+SH1615,Ushodaya Super Market ,SE03,B663,B007,OTL12
+SH1616,Balaji Provision Stores Stationary Xrox ,SE03,B878,B002,OTL01
+SH1617,Sri Srinivasa Kirana Store And General Store,SE03,B879,B009,OTL02
+SH1618,Silver Bakers,SE03,B880,B001,OTL18
+SH1619,Ramdev And General Stores,SE03,B881,B009,OTL02
+SH1620,Sawariya Kirana General Store,SE03,B882,B002,OTL01
+SH1621,Laxmi Kiranam General Store,SE03,B723,B002,OTL01
+SH1622,Vinay Bakery,SE03,B883,B001,OTL18
+SH1623,Ganesh Bhandar Mithaai Wala,SE03,B879,B008,OTL02
+SH1624,Sri Lakshmi Kirana Store,SE03,B879,B009,OTL02
+SH1625,Balaji Mithaiwala,SE03,B885,B008,OTL02
+SH1626,Sri Venkateshwara Banglore Iyengar Bakery,SE03,B886,B001,OTL02
+SH1627,Srinatha Kirana And General Store,SE03,B887,B002,OTL02
+SH1628,Anasuuya Super Market,SE03,B888,B007,OTL01
+SH1629,Anmol Bakery,SE03,B890,B001,OTL02
+SH1630,Vish Super Market,SE03,B892,B007,OTL05
+SH1631,Take N Go Bakery,SE03,B893,B001,OTL05
+SH1632,Suryoda Super Market,SE03,B894,B009,OTL02
+SH1633,Sri Sai Super Market,SE03,B895,B009,OTL22
+SH1634,Sri Ganesh Cake Sagar Bakery,SE03,B896,B001,OTL01
+SH1635,Taste N Move Bakery,SE03,B897,B001,OTL01
+SH1636,Cafica Seasonal Wagons,SE03,B898,B012,OTL04
+SH1637,Spencer Super Market,SE03,B899,B009,OTL02
+SH1638,Lakshmi Super Market,SE03,B900,B009,OTL01
+SH1639,Aaimatha Traders,SE03,B901,B002,OTL10
+SH1640,Ambika Kirana General Store,SE03,B902,B009,OTL06
+SH1641,Heritage Fresh Store,SE03,B903,B009,OTL22
+SH1642,Kishore Traders,SE03,B904,B006,OTL01
+SH1643,Sri Balaji Sainath Sweet And Bakery,SE03,B905,B001,OTL05
+SH1644,Shivam Kirana General Store,SE03,B902,B002,OTL10
+SH1645,Fresh Mart,SE03,B906,B002,OTL02
+SH1646,Rajkamal Sweet House,SE03,B907,B008,OTL01
+SH1647,Sri Balaji Ghanyasham K G S,SE03,B656,B002,OTL22
+SH1648,Jai Hanuman K G S,SE03,B656,B002,OTL22
+SH1649,Agarwal Super Market,SE03,B907,B007,OTL05
+SH1650,Sri Padmavathi K G S,SE03,B908,B002,OTL22
+SH1651,N Mart ,SE03,B909,B007,OTL18
+SH1652,Rathod Kirana General Store,SE03,B910,B002,OTL01
+SH1653,Ramdev Provision Store,SE03,B619,B002,OTL02
+SH1654,Sri Ayyappa Kg S,SE03,B656,B002,OTL22
+SH1655,More Supermarket,SE03,B911,B007,OTL05
+SH1656,Charbhuja K G S,SE03,B656,B002,OTL22
+SH1657,Sri Ganesh Bangalore Iyengar Bakery,SE03,B912,B001,OTL10
+SH1658,Laxmi Narsimha K G S,SE03,B656,B002,OTL22
+SH1659,Ganesh Mithai Bhandar,SE03,B913,B008,OTL10
+SH1660,Pavan K G S,SE03,B656,B002,OTL22
+SH1661,Srujana Enterprises,SE03,B914,B002,OTL02
+SH1662,Kanaka Durga K G S,SE03,B395,B002,OTL22
+SH1663,Sri Dev Kripa Kiranam And General Store,SE03,B915,B002,OTL05
+SH1664,Sri Ganesh K G S,SE03,B128,B002,OTL05
+SH1665,Swathi Bakers And Confectionery,SE03,B728,B001,OTL18
+SH1666,Sri Balaji Supermarket,SE03,B918,B007,OTL02
+SH1667,Sri Aai Mata Mini Super Market,SE03,B919,B002,OTL02
+SH1668,Surya Teja Bakery,SE03,B920,B001,OTL02
+SH1669,Keshav Kirana Dry Fruits General Store,SE03,B896,B002,OTL10
+SH1670,Galaxy Bakers,SE03,B918,B001,OTL02
+SH1671,Cake Karft Bakery Confectionery,SE03,B913,B001,OTL10
+SH1672,Unique Ice Cream And Milk Parlour,SE03,B128,B004,OTL22
+SH1673,Angel Bakers,SE03,B656,B001,OTL22
+SH1674,Sri Jagadamba Traders,SE03,B656,B002,OTL22
+SH1675,Sri Laxmi Eggs Wholesale And Retails,SE03,B395,B009,OTL22
+SH1676,A R Bakers Sweets,SE03,B921,B001,OTL01
+SH1677,Swiss Castle Bakery,SE03,B922,B001,OTL12
+SH1678,Laxmi Narasimha Heritage Parlour,SE03,B893,B003,OTL05
+SH1679,Swamy Kirana General Store,SE03,B896,B009,OTL01
+SH1680,Dasmart Super Market,SE03,B923,B009,OTL02
+SH1681,Sri Srinivasa Kgs,SE03,B446,B002,OTL02
+SH1682,Bombay Chat And Bakery,SE03,B447,B001,OTL02
+SH1683,Bharath Store,SE03,B447,B002,OTL02
+SH1684,Rs Mart,SE03,B447,B002,OTL02
+SH1685,Shri Dhatri Food Court Bekary,SE03,B447,B001,OTL02
+SH1686,Sharadha Kiranam And General Store,SE03,B924,B002,OTL05
+SH1687,Sri Hunman Kirana And General Store,SE03,B925,B002,OTL02
+SH1688,Mohit Kirana General Stores,SE03,B926,B002,OTL02
+SH1689,Ashwin Bakery And Generalstore,SE03,B446,B001,OTL02
+SH1690,Sai Shakar Kgs,SE03,B446,B002,OTL02
+SH1691,Sri Laxmi Kgs,SE03,B447,B002,OTL02
+SH1692,Sri Sangameshwara Kirana And General Store,SE03,B927,B002,OTL15
+SH1693,Sri Balaji Sm,SE03,B399,B002,OTL02
+SH1694,Golden Gate Bekary Stores,SE03,B446,B001,OTL02
+SH1695,Sk Grandmas Bakery,SE03,B929,B001,OTL02
+SH1696,Z Mart Supermarket,SE06,B930,B007,OTL02
+SH1697,Well Mart Supermarket,SE06,B299,B007,OTL21
+SH1698,Srinivasa Super Market,SE02,B931,B007,OTL02
+SH1699,Durga Nilayam Store,SE02,B126,B002,OTL01
+SH1700,Best Mart,SE02,B931,B002,OTL02
+SH1701,Aliza Store,SE02,B126,B009,OTL22
+SH1702,New Cafe House,SE02,B299,B001,OTL22
+SH1703,Bms Medical,SE02,B299,B003,OTL22
+SH1704,Deccan Medical And General,SE02,B932,B003,OTL02
+SH1705,Tawakkal Cooldrinks,SE02,B299,B006,OTL05
+SH1706,Neo Health Care Pharmacy,SE02,B126,B003,OTL05
+SH1707,New Pranav ,SE02,B257,B003,OTL18
+SH1708,Aleem Medical Hall,SE02,B257,B003,OTL05
+SH1709,Sr Supermarket,SE02,B126,B007,OTL22
+SH1710,Ibrahima Communication,SE02,B933,B010,OTL01
+SH1711,Abood General Store,SE02,B934,B002,OTL02
+SH1712,Md Azmath Ullah Kirana General Store,SE02,B934,B002,OTL02
+SH1713,Al Qasim Kirana General Store,SE02,B934,B009,OTL02
+SH1714,Al Kaiser Medical General Sto,SE02,B933,B003,OTL02
+SH1715,Zamzam Bakery,SE02,B934,B001,OTL02
+SH1716,Refreshing Point,SE02,B934,B004,OTL02
+SH1717,Zamzam Sweets House,SE02,B935,B012,OTL02
+SH1718,Badayyan Ice Cream Parlour,SE02,B933,B004,OTL01
+SH1719,Mashallah Bakery,SE02,B758,B001,OTL18
+SH1720,Badayyan Store,SE02,B934,B012,OTL01
+SH1721,Ambika Kirana,SE07,B936,B002,OTL02
+SH1722,Anil Traders,SE07,B937,B002,OTL19
+SH1723,Swapna Kirana,SE07,B937,B002,OTL02
+SH1724,Kirana Ghar Shop,SE03,B938,B002,OTL01
+SH1725,M K Kirana General Store,SE01,B939,B002,OTL22
+SH1726,Vandana Store Ixora Group2,SE01,B940,B009,OTL04
+SH1727,Ntr Memorial Canteen,SE01,B941,B006,OTL04
+SH1728,Ramesh Kgs,SE01,B399,B002,OTL02
+SH1729,Slv Bangalore Ayengar Bakery,SE05,B942,B001,OTL18
+SH1730,Brown Bear,SE05,B943,B001,OTL18
+SH1731,Mani Provisions,SE05,B944,B009,OTL18
+SH1732,Jagadamba Stores,SE05,B942,B002,OTL18
+SH1733,Mr Bakers,SE05,B943,B001,OTL18
+SH1734,Vijayalaxmi Kirana,SE05,B942,B002,OTL02
+SH1735,Bake House,SE05,B946,B001,OTL02
+SH1736,Slv Bnagalore Iyengar Bakery,SE05,B947,B001,OTL02
+SH1737,Monganis Cakes,SE05,B942,B001,OTL18
+SH1738,Sri Aditya Store,SE05,B948,B009,OTL02
+SH1739,Maruthi Kirana,SE05,B949,B002,OTL02
+SH1740,Prince Vijaya Dairy And Bakery,SE05,B950,B001,OTL18
+SH1741,Laxmi Bakers Zone,SE05,B951,B001,OTL02
+SH1742,Rathod Kgs,SE05,B952,B002,OTL02
+SH1743,Maya Kiranam And General,SE05,B946,B002,OTL02
+SH1744,Youshufian Bakery,SE05,B953,B001,OTL02
+SH1745,Ista Medical General,SE05,B952,B003,OTL02
+SH1746,S Mart Store,SE05,B954,B007,OTL02
+SH1747,Dolphin Bakery,SE05,B952,B001,OTL02
+SH1748,Ganesh Mithai Bandar,SE05,B952,B008,OTL02
+SH1749,Geetanjali Bakery And Milk Parlour,SE05,B949,B001,OTL02
+SH1750,Hanuman Kiranam And General Store,SE05,B956,B002,OTL05
+SH1751,Shree Bakery,SE05,B957,B001,OTL10
+SH1752,Dhanalaxmi Mithai Bhandar,SE05,B958,B008,OTL01
+SH1753,Charan Bakers Fast Food,SE05,B959,B001,OTL10
+SH1754,Sri Venkateshwara Bangalore Iyengar Bekary,SE05,B952,B001,OTL02
+SH1755,Balaji Mithai Bhandar,SE05,B960,B008,OTL02
+SH1756,Sri Mahalaxmi Super Market,SE05,B946,B007,OTL02
+SH1757,Mallikarjuna Kirana General Stores,SE05,B961,B002,OTL02
+SH1758,Top Taste Bakery,SE05,B167,B001,OTL01
+SH1759,Sai Ram Medicals And General Stores,SE05,B29,B003,OTL02
+SH1760,Sushma Kirana General Stores,SE05,B963,B002,OTL02
+SH1761,Slj Banglore Iyengar Bakery,SE05,B167,B001,OTL01
+SH1762,Sri Balaji Mitai Bandar,SE05,B167,B008,OTL02
+SH1763,Krazy Cups,SE05,B163,B004,OTL02
+SH1764,Sri Venkateshwara Kirana And General Store,SE05,B964,B002,OTL15
+SH1765,Sri Krishna Kiranam And General Store,SE08,B965,B002,OTL01
+SH1766,Swaroopa Kirana,SE08,B966,B002,OTL02
+SH1767,Spencers,SE08,B967,B007,OTL01
+SH1768,Sri Venkateshwara Cooldrinks And Milk,SE08,B965,B006,OTL01
+SH1769,Bakewell Cafe House,SE08,B968,B001,OTL22
+SH1770,Finefare Supper Market,SE08,B969,B007,OTL22
+SH1771,Diamond Store,SE08,B970,B002,OTL22
+SH1772,Friendly Fare Super Market,SE08,B697,B007,OTL22
+SH1773,Al Hussain Medical ,SE08,B971,B003,OTL22
+SH1774,Monginis Cake Shop,SE08,B972,B001,OTL01
+SH1775,Fort View Bakers,SE08,B697,B001,OTL01
+SH1776,Anam Sweets And Bakers,SE08,B697,B001,OTL22
+SH1777,Fresh N Crunch Supermarket,SE08,B973,B002,OTL01
+SH1778,Taza Bakery And Bakery,SE08,B974,B001,OTL22
+SH1779,S B Kirana General Store,SE08,B697,B002,OTL22
+SH1780,New Finefare Super Market,SE08,B975,B007,OTL05
+SH1781,Prime Mini Mart,SE08,B976,B002,OTL01
+SH1782,Mahaveer Kiranam And General Store,SE08,B965,B002,OTL02
+SH1783,Araaf Super Market,SE08,B977,B007,OTL05
+SH1784,Medi Point Medical General Store,SE08,B974,B003,OTL22
+SH1785,Balaji Mart,SE08,B978,B002,OTL02
+SH1786,New Pharma Plus Medical General Store,SE08,B974,B003,OTL22
+SH1787,Orbit Super Market,SE08,B974,B007,OTL22
+SH1788,New Maharaja Sweets Namkeen ,SE08,B979,B008,OTL22
+SH1789,Syed Bakery ,SE08,B974,B001,OTL22
+SH1790,Hassan And Sons Kirana General Store,SE08,B697,B002,OTL22
+SH1791,Basith Bhai And Sons Kirana General Store,SE08,B697,B002,OTL22
+SH1792,Om Sai Kirana And General Store,SE08,B980,B009,OTL05
+SH1793,Family Medical,SE08,B981,B003,OTL22
+SH1794,Famous Kirana General Store,SE08,B697,B002,OTL22
+SH1795,Shahi Fish Corner,SE08,B974,B002,OTL22
+SH1796,Azra Kirana General Store,SE08,B697,B002,OTL22
+SH1797,Khaleem Bhai Kirana General Store,SE08,B982,B002,OTL22
+SH1798,Green Medical Store,SE08,B697,B003,OTL22
+SH1799,Hussain Care Medical General Store,SE08,B983,B003,OTL22
+SH1800,Al Labaik Icecream ,SE08,B697,B004,OTL01
+SH1801,K S Kiranam And General Store,SE08,B984,B002,OTL02
+SH1802,Irfan Kirana General Store,SE08,B697,B002,OTL22
+SH1803,Dream Land Bakers ,SE08,B972,B001,OTL02
+SH1804,Indermal Rajkumar General Store,SE03,B985,B002,OTL01
+SH1805,Kumar Kiranam And General Store,SE03,B985,B009,OTL01
+SH1806,Sri Krishna Communication,SE03,B985,B002,OTL01
+SH1807,Sri Vijayalaxmi Kirana General Store,SE03,B382,B002,OTL10
+SH1808,Venkatadri Mithai Bhandar,SE03,B382,B008,OTL01
+SH1809,Sainath Bakery,SE03,B382,B001,OTL01
+SH1810,Vijaya Durga Enterprises,SE03,B987,B001,OTL18
+SH1811,Sri Manikeswari Matha Store,SE03,B988,B002,OTL01
+SH1812,Sri Venkateshwara Bangalore Iyengar Bakery,SE05,B989,B001,OTL13
+SH1813,Sri Sai Ram Wholesale Merchant,SE05,B876,B007,OTL21
+SH1814,Padmavathi Pickels General Store,SE05,B990,B002,OTL15
+SH1815,Prime Foods,SE05,B991,B012,OTL22
+SH1816,Jai Balaji Kirana And General Store,SE05,B992,B002,OTL22
+SH1817,Sri Venkateshwara Banglore Bakery,SE05,B876,B001,OTL18
+SH1818,Ramdev Kirana And General Store,SE05,B876,B002,OTL18
+SH1819,Sri Rk Kirana And General Store,SE05,B993,B002,OTL22
+SH1820,Krish Kirana And General Store,SE05,B876,B002,OTL05
+SH1821,Kpc Mega Banglore Bzkery,SE05,B994,B001,OTL18
+SH1822,Orange Super Market,SE05,B993,B007,OTL18
+SH1823,Skk Bakery,SE05,B876,B001,OTL18
+SH1824,Sro Srinivasa Kirana And General Store,SE05,B992,B002,OTL22
+SH1825,Lalitha Parameshwari Kirana And General Store,SE05,B995,B002,OTL05
+SH1826,Raj Laxmi Kirana And General Store,SE05,B995,B002,OTL18
+SH1827,Tasty Bites Bakery,SE05,B995,B001,OTL05
+SH1828,Mls Bakers And General Store,SE05,B996,B001,OTL18
+SH1829,Jai Hznuman Kirana And General Store,SE05,B997,B002,OTL05
+SH1830,Shankar Kirana And General Stores,SE05,B999,B002,OTL22
+SH1831,Shyambaba Kirana General Store,SE05,B876,B002,OTL05
+SH1832,Guddus Dry Fruits,SE05,B992,B002,OTL18
+SH1833,Sri Raghavendra Kirana And General Store,SE05,B996,B002,OTL02
+SH1834,Om Sri Sai Someshwara Kirana And General Store,SE05,B995,B002,OTL02
+SH1835,Sri Balkishan Mithai Bandar,SE05,B1001,B008,OTL18
+SH1836,Sri Balaji Ramnaresh Mithai Bandar,SE05,B993,B008,OTL01
+SH1837,Our Store,SE05,B991,B007,OTL18
+SH1838,Lovely Bakery,SE05,B1002,B001,OTL22
+SH1839,Sri Sai Balery,SE05,B1001,B001,OTL15
+SH1840,Krishna Kirana And General Store,SE05,B1003,B002,OTL22
+SH1841,New Star Bakery,SE05,B1003,B001,OTL22
+SH1842,The Haas Bakery,SE05,B1001,B001,OTL18
+SH1843,Sri Laxmi Narasimha Veg Basket,SE05,B999,B002,OTL02
+SH1844,Kaleema Kirana And General Stores,SE05,B1001,B002,OTL18
+SH1845,Sri Bhagyalami Kiranam And General Store,SE05,B995,B002,OTL05
+SH1846,Sri Sai Ganesh Super Market,SE05,B1006,B007,OTL04
+SH1847,Sri Laxmi Banglore Ayyagaru Bakery,SE05,B1007,B001,OTL02
+SH1848,Aadarsha Mart,SE05,B1008,B007,OTL05
+SH1849,Siva Ratna General Store,SE09,B1009,B002,OTL02
+SH1850,Balaji Mahaveer Kgs,SE09,B546,B002,OTL02
+SH1851,Tipsy Topsy Bakery,SE09,B1010,B012,OTL02
+SH1852,Santosh Reddy Pure Ghee Sweets,SE09,B1011,B008,OTL18
+SH1853,Jai Hanuman Kiranam And General Store,SE09,B1012,B002,OTL01
+SH1854,Sk Bakers,SE09,B440,B001,OTL01
+SH1855,Rehmath Kirana General Store,SE09,B1015,B002,OTL18
+SH1856,Ramanjaneya Kirana General Store,SE09,B1014,B002,OTL06
+SH1857,Vijayalaxmi Milk Parlour,SE09,B1016,B009,OTL22
+SH1858,Om Kirana General Store,SE09,B1016,B002,OTL02
+SH1859,Azmath Medical And General,SE06,B1017,B003,OTL02
+SH1860,Al Rahman Medical And General,SE06,B1018,B003,OTL02
+SH1861,Tawakkal Bakery,SE06,B1017,B001,OTL02
+SH1862,Al Madina Kirana Andgeneral,SE06,B1017,B002,OTL02
+SH1863,Siraj Kirana Andgeneral,SE06,B1017,B002,OTL02
+SH1864,Mohammed General And Kirana Store,SE06,B1017,B002,OTL02
+SH1865,Health Medical And ,SE06,B1019,B003,OTL02
+SH1866,Khans Children Sweet Andgeneral,SE06,B1017,B009,OTL02
+SH1867,Ismail Medical Hall,SE06,B1020,B003,OTL02
+SH1868,Al Rehman Ice Cream And Cool Drinks,SE06,B1017,B006,OTL02
+SH1869,M S Kirana Andgeneral,SE06,B344,B002,OTL02
+SH1870,Sri Balaji Aditya Mithai Bhandar,SE05,B1021,B001,OTL01
+SH1871,Sri Sonthi Mata Vinaya Kiranam Store,SE05,B1021,B002,OTL01
+SH1872,Royal Kirana And General Store,SE05,B446,B002,OTL01
+SH1873,Volege Super Market,SE05,B1022,B009,OTL01
+SH1874,Laxmi Dairy Porlar,SE05,B1023,B002,OTL01
+SH1875,Jai Hanuman Iranam Generl Store,SE05,B1024,B002,OTL02
+SH1876,Sri Ram Kiranam Ganeral Store,SE05,B1025,B002,OTL01
+SH1877,Balaji Mukesh Kirana General Store,SE05,B1027,B002,OTL02
+SH1878,Sonthosh Kiranam General Store,SE05,B1028,B002,OTL01
+SH1879,Sri Sai K G S,SE05,B1029,B002,OTL02
+SH1880,Maa Ashapura Kirana General Stores,SE05,B40,B002,OTL02
+SH1881,Hema Sweets ,SE05,B1030,B008,OTL01
+SH1882,Raunaq Bakers,SE05,B1031,B001,OTL01
+SH1883,Priya Kirana General Store,SE05,B1032,B002,OTL02
+SH1884,A V S Kirana General Store,SE05,B1032,B002,OTL02
+SH1885,S L V Bangalore Iyengar Bakery,SE05,B1032,B001,OTL01
+SH1886,The Best Kirana General Store,SE08,B1033,B002,OTL18
+SH1887,Hakimi Kirana General Store,SE08,B1034,B002,OTL18
+SH1888,Max Ice Cream Parlour,SE08,B1035,B004,OTL18
+SH1889,Anwar Kirana General Store,SE08,B1036,B002,OTL02
+SH1890,Neha Kirana Store,SE08,B1037,B002,OTL22
+SH1891,Sadaf General Store,SE08,B1033,B002,OTL18
+SH1892,Brothers Medical General Store,SE08,B1033,B003,OTL12
+SH1893,Kings Mart,SE08,B1037,B002,OTL22
+SH1894,Latest Bakery,SE08,B774,B001,OTL22
+SH1895,India Bakery,SE08,B773,B001,OTL22
+SH1896,Al Safa Medical Store,SE08,B1039,B003,OTL22
+SH1897,Jai Durga Kirana General Store,SE08,B1040,B002,OTL22
+SH1898,Akash Store,SE08,B768,B009,OTL22
+SH1899,Zam Zam Medical General Store,SE08,B773,B003,OTL22
+SH1900,Yousufain Ice Cream Corner,SE08,B774,B004,OTL22
+SH1901,Dilip Super Market,SE08,B1041,B007,OTL22
+SH1902,Indiana Medical Hall,SE08,B1038,B003,OTL13
+SH1903,Al Kaiz Milk Point Kirana General Store,SE08,B1042,B002,OTL22
+SH1904,Iqbal Kirana General Store,SE08,B173,B002,OTL22
+SH1905,Laxmi Narashimha Kirana General Store,SE08,B656,B002,OTL22
+SH1906,Hirar Medical Chemist Druggist,SE08,B773,B003,OTL22
+SH1907,Dilip Grand Bazar,SE08,B656,B002,OTL22
+SH1908,Sri Balaji Kiran General Store,SE08,B1041,B002,OTL22
+SH1909,Os Brothers Medical General Store,SE08,B1043,B003,OTL22
+SH1910,Sunrise Medical General Store,SE08,B656,B003,OTL22
+SH1911,Sri Vijaya Laxmi Milk And Ice Cream Parlour,SE08,B1044,B004,OTL22
+SH1912,Hydarabad Famous Karachi Biscuits,SE08,B1045,B001,OTL20
+SH1913,A K Mini Super Market,SE08,B773,B002,OTL22
+SH1914,Al Azizia Bakers,SE08,B1038,B001,OTL18
+SH1915,Life Care Medical General Store,SE08,B1046,B003,OTL22
+SH1916,Star Medical ,SE08,B1047,B003,OTL22
+SH1917,Metro Medical Hall,SE08,B770,B003,OTL22
+SH1918,New Sagar Bakers,SE08,B1048,B001,OTL18
+SH1919,Pavan Provison Store,SE03,B784,B002,OTL01
+SH1920,Fb Baby Care Store,SE03,B1049,B009,OTL02
+SH1921,Jai Hanuman Kiranam Stores,SE03,B1050,B002,OTL02
+SH1922,Sri Venkata Sai Kirana Ganeral Store,SE03,B1051,B002,OTL02
+SH1923,Prakash General Store,SE03,B1052,B002,OTL02
+SH1924,Sri Balaji Kiranam Ganaral Store,SE03,B1053,B002,OTL02
+SH1925,Ruchi Bangalore Bakery,SE03,B1054,B001,OTL02
+SH1926,Srinivasa Kirana And General Stores,SE03,B1054,B002,OTL02
+SH1927,Krishnaveni General Store And Stationary,SE03,B1055,B002,OTL02
+SH1928,Sri Ganesh Kirana And General Store,SE03,B1055,B002,OTL02
+SH1929,Santhoshimatha Kirana And General Stores,SE03,B1054,B002,OTL02
+SH1930,Srinivasa Kirana Store,SE03,B121,B002,OTL19
+SH1931,Om Balaji Mithai Bandar ,SE03,B1056,B008,OTL06
+SH1932,Josh Kirana General Store,SE03,B1057,B002,OTL18
+SH1933,Baba Kirana General Store,SE03,B1056,B002,OTL02
+SH1934,Maruthi Super Stores,SE03,B1054,B002,OTL02
+SH1935,Vasi Reddy Sweets,SE03,B1058,B001,OTL02
+SH1936,Sri Sai Bhavani Kirana And Generalstore,SE03,B1060,B009,OTL18
+SH1937,Daily Mart,SE03,B1061,B002,OTL01
+SH1938,Big Value Super Market,SE11,B736,B007,OTL02
+SH1939,Vishnu Priya Kirana General Store,SE11,B1062,B002,OTL02
+SH1940,Bhavani Kirana Store,SE11,B1062,B002,OTL01
+SH1941,Surabhi Super Market,SE11,B1062,B007,OTL02
+SH1942,Lalith Aditya General Store,SE11,B1064,B009,OTL01
+SH1943,Sri Dharani Swagruha Foods,SE11,B1064,B008,OTL01
+SH1944,Vijetha Super Market,SE11,B1065,B007,OTL13
+SH1945,Dinesh Kirana And General Store,SE11,B1066,B002,OTL12
+SH1946,Pick And Pay,SE11,B1067,B007,OTL05
+SH1947,Anil Kirana General Store,SE11,B1068,B002,OTL02
+SH1948,Elitev Bakery,SE11,B1069,B001,OTL01
+SH1949,Royal Bakery,SE11,B1070,B001,OTL01
+SH1950,Jai Santhosh Sai Kiranam And General Store,SE11,B1072,B002,OTL05
+SH1951,Svs Stores,SE11,B1073,B002,OTL05
+SH1952,Sri Anand Madhavi General Merchants Rice Oils,SE11,B1062,B002,OTL01
+SH1953,Sri Bhagava Laxmi Kiranam General Store,SE11,B1072,B002,OTL05
+SH1954,Walnut Bakers Confectioners,SE11,B1064,B001,OTL01
+SH1955,Paris Mart,SE11,B1067,B007,OTL02
+SH1956,Purna Kiranam And General Stores,SE11,B1075,B002,OTL02
+SH1957,Tharuni Mart,SE11,B1067,B007,OTL01
+SH1958,Sri Prasannanjaneya Kiranam And General Store,SE11,B1076,B002,OTL02
+SH1959,Diamond Bakers,SE11,B1077,B001,OTL07
+SH1960,Sri Laxmi Kiranam And General Store,SE11,B1078,B002,OTL02
+SH1961,Jai Maruthi Bangalore Iyengars Bakery,SE11,B1062,B001,OTL01
+SH1962,Mahalakshmi Sweet House,SE11,B1062,B008,OTL01
+SH1963,Just Breck Berkes,SE11,B1067,B001,OTL01
+SH1964,Sri Ganesh Kiranam And General Store,SE11,B1079,B002,OTL02
+SH1965,Sri Sai Kiranam And General Store,SE11,B1080,B002,OTL01
+SH1966,Sri Bajarangabali Kiranam And General Store,SE11,B1082,B002,OTL02
+SH1967,Sri Rachannaswamy Kiranam,SE11,B1083,B002,OTL02
+SH1968,Vijyalaxmi Kiranam And General Store,SE11,B1084,B002,OTL02
+SH1969,Jagadeshwara Kiranam And General Store,SE11,B1075,B002,OTL02
+SH1970,Om Sai Bhavani Kiranam And General Store,SE11,B1067,B002,OTL02
+SH1971,Humpty Dumty Bakers,SE11,B1075,B001,OTL02
+SH1972,Sri Bhavani Kiranam And General Store,SE11,B1086,B002,OTL02
+SH1973,Sri Kheteshwar Kirana General Store,SE11,B1062,B002,OTL02
+SH1974,Ni Mart,SE11,B1075,B005,OTL02
+SH1975,Bajrang Kiranam And General Store,SE11,B1088,B002,OTL02
+SH1976,Vasavi Kiranam And General Store,SE11,B1082,B002,OTL02
+SH1977,Vijay Super Market,SE11,B1089,B007,OTL02
+SH1978,Vinay Kumar Kiranam And General Store,SE11,B1090,B002,OTL02
+SH1979,Super Mart,SE11,B736,B002,OTL02
+SH1980,Sri Shubulingeshwar Swamy Berkes,SE11,B1067,B001,OTL01
+SH1981,Amul Ice Cream Hub,SE11,B736,B004,OTL07
+SH1982,Sunitha Kiranam ,SE11,B1067,B002,OTL02
+SH1983,Chaitanya Sweets,SE11,B1091,B001,OTL02
+SH1984,A1 Kirana And General Store,SE11,B1092,B002,OTL01
+SH1985,Jacob Bakery,SE11,B1062,B001,OTL02
+SH1986,Balaji Manish Mithai Bandar,SE11,B1067,B008,OTL02
+SH1987,Om Sai Slv Bangalore Bakey,SE11,B1067,B001,OTL02
+SH1988,Sana Saba Kirana Store,SE11,B736,B002,OTL01
+SH1989,Vijetha Super Markets,SE11,B1093,B007,OTL01
+SH1990,Dbm Kirana General Store,SE11,B1062,B002,OTL02
+SH1991,Sri Sai Provisional Store,SE11,B1087,B002,OTL02
+SH1992,Al Khair Super Market,SE11,B736,B007,OTL07
+SH1993,Balaji Papalal Mitai Bandar,SE11,B1092,B008,OTL02
+SH1994,Vijetha Super Mart,SE11,B1095,B005,OTL02
+SH1995,Sri Balaji Mahadev Methai Bhandar,SE11,B1096,B008,OTL02
+SH1996,Sidhi Vinayaka Grand Bazar,SE11,B1067,B002,OTL02
+SH1997,Balaji Chappan Bhog Mitai Bhandar,SE11,B1070,B008,OTL01
+SH1998,Cake Land Bakery,SE11,B1067,B001,OTL02
+SH1999,Sri Annapurna Kirana General Store,SE11,B1062,B002,OTL02
+SH2000,Prathiroju Super Market,SE11,B1062,B007,OTL02
+SH2001,Mk Kirana And General Store,SE11,B736,B002,OTL02
+SH2002,S L V Banglor Iyangar Bakery ,SE11,B1067,B001,OTL02
+SH2003,Gattus Bakery,SE11,B1062,B001,OTL02
+SH2004,Thungabadhra Rice Traders,SE11,B1097,B002,OTL02
+SH2005,Matrix Bakery,SE11,B1092,B001,OTL01
+SH2006,Shiva Balaji Kirana General Store,SE11,B1062,B002,OTL02
+SH2007,Sampadha Seven Hills Mart,SE11,B1067,B005,OTL02
+SH2008,Deva Mini Market,SE11,B1062,B007,OTL02
+SH2009,Bhgya Lakshmi Kirana General Store,SE11,B1062,B002,OTL02
+SH2010,Ancient Organics,SE11,B1098,B010,OTL02
+SH2011,Cream Fudge,SE11,B1100,B004,OTL18
+SH2012,Saraswathi Kirana General Store,SE11,B396,B002,OTL05
+SH2013,Venkateshwara Reddy Sweet House,SE11,B1062,B008,OTL01
+SH2014,Sri Sai Ragavendhra Kiranam And General Store,SE11,B1067,B002,OTL02
+SH2015,Sri Sesha Sai Kirana General Store,SE11,B1062,B002,OTL02
+SH2016,Vishnu Priya Milk Kirana General Store,SE11,B1062,B002,OTL02
+SH2017,Mathaji Kirana General Store,SE11,B1062,B002,OTL02
+SH2018,New Tipsy Topsy Bakery,SE11,B1101,B001,OTL12
+SH2019,Agra Mitai Wala,SE11,B1070,B008,OTL01
+SH2020,Sri Manjunatha Bangalore Bakery,SE11,B1102,B001,OTL02
+SH2021,Paras Rice Shop,SE11,B736,B002,OTL02
+SH2022,Sri Thirumala Rice Depo ,SE11,B1103,B002,OTL18
+SH2023,Limra General Store,SE11,B1104,B009,OTL02
+SH2024,Jodhpur Kachdbu Sweets,SE11,B1105,B001,OTL02
+SH2025,Om Shiva Sai Kirana General Store,SE11,B740,B002,OTL07
+SH2026,New Balaji Mitai Bhandar,SE11,B735,B008,OTL01
+SH2027,Rs Bakers,SE11,B1107,B001,OTL02
+SH2028,Sri Balaji Chat Namkeen Mithai Wala,SE11,B1108,B008,OTL22
+SH2029,S V S Home Foods Dry Fruits,SE11,B735,B013,OTL02
+SH2030,Alain Bakers,SE11,B1102,B001,OTL01
+SH2031,Parvati Kirana General Store,SE11,B735,B002,OTL02
+SH2032,Balaji Vikas Kirana General Store,SE11,B740,B002,OTL18
+SH2033,Cake Palace Bakery,SE11,B1062,B001,OTL02
+SH2034,Jagadambha Kirana General Store,SE11,B735,B002,OTL02
+SH2035,Vijeta Super Morket,SE11,B1110,B007,OTL01
+SH2036,Sri Anjenaya K G S,SE11,B1111,B002,OTL22
+SH2037,Chandra Kala Kirana General Store,SE11,B735,B002,OTL01
+SH2038,Harithas Bake Land,SE11,B1067,B001,OTL22
+SH2039,Kakes N Krisps Cake Shop,SE11,B1112,B001,OTL01
+SH2040,Meera Cool Drinks And Bakery,SE11,B736,B001,OTL02
+SH2041,Vijetha Supermarket,SE11,B1113,B007,OTL02
+SH2042,Tirupati Kirana General Store,SE11,B735,B002,OTL02
+SH2043,Sri Lakshmi Kirana General Store,SE11,B735,B002,OTL02
+SH2044,Ujwala Kiranam And General Store,SE11,B1114,B002,OTL13
+SH2045,Deepthi Super Market,SE11,B735,B007,OTL02
+SH2046,Spl Grocers Bakers,SE11,B735,B002,OTL02
+SH2047,Sri Sangameshwara Kirana General Store,SE11,B735,B002,OTL02
+SH2048,Madhur Pure Gee Sweets,SE11,B1115,B008,OTL02
+SH2049,Sri Sai Dairy K G S,SE11,B1116,B002,OTL19
+SH2050,Sri Sai Dry Fruits And Spices,SE11,B1117,B013,OTL02
+SH2051,Siva Sai K G S,SE11,B1067,B002,OTL22
+SH2052,Polimeras,SE11,B1118,B007,OTL02
+SH2053,Balaji Gopichand Mitai Bhandar,SE11,B735,B008,OTL02
+SH2054,Sri Balaji Sai Ram Mithai Bhandar,SE11,B1119,B008,OTL19
+SH2055,K S Bakers,SE11,B1119,B001,OTL19
+SH2056,Ramini Mini Super Market,SE11,B736,B002,OTL02
+SH2057,Kutty Bakers,SE11,B1067,B001,OTL02
+SH2058,Chef Bakers,SE11,B735,B001,OTL02
+SH2059,Sri Shiva Sai Kirana General Store,SE11,B735,B002,OTL02
+SH2060,Ssvs Bangalore Bakery,SE11,B1120,B001,OTL01
+SH2061,Sri Dhana Lakshmi Grand Bazar,SE11,B1118,B002,OTL02
+SH2062,K J B Kirana General Store,SE11,B735,B002,OTL02
+SH2063,Good Times Cool Drinks,SE11,B735,B006,OTL02
+SH2064,Sri Nidhi Kirana General Store,SE11,B735,B002,OTL02
+SH2065,Ujwal Kirana General Store,SE11,B1062,B002,OTL02
+SH2066,S Mart,SE11,B735,B007,OTL02
+SH2067,Ssr Bangalore Bakery,SE11,B735,B001,OTL02
+SH2068,Sri Sai Balaji Sweets And Bakery,SE11,B1120,B001,OTL12
+SH2069,Cake Point,SE11,B1116,B001,OTL05
+SH2070,Siri Vasavi K G S,SE11,B1067,B002,OTL12
+SH2071,Ramdev K G S,SE11,B1067,B002,OTL22
+SH2072,Kiranawala Super Market,SE11,B735,B007,OTL01
+SH2073,Sri Lakshmi Narasimha Kirana General Store,SE11,B735,B002,OTL02
+SH2074,Mahadev Kirana General Store,SE11,B735,B002,OTL02
+SH2075,Orange Bakers Cake Factory,SE11,B735,B001,OTL02
+SH2076,Kesariya G Kirana General Store,SE11,B735,B002,OTL02
+SH2077,Sri Vijayalaxmi K G S,SE11,B1067,B002,OTL19
+SH2078,Sri Balaji Laxman K G S,SE11,B1067,B002,OTL05
+SH2079,Sri Laxmi Venkateshwara K G S,SE11,B1109,B002,OTL19
+SH2080,Raj Laxmi Kirana General Store,SE11,B735,B002,OTL02
+SH2081,Maha Laxmi Bakery ,SE11,B1111,B001,OTL22
+SH2082,Publix Mart,SE11,B1122,B007,OTL02
+SH2083,Sapthagiri Super Market,SE11,B735,B007,OTL02
+SH2084,Balaji Sunil K G S,SE11,B1067,B002,OTL05
+SH2085,Sri Venkata Sai Rice Traders,SE11,B1124,B002,OTL02
+SH2086,Sri Sai Sita Ramanujeya Kirana And General Stores,SE11,B1124,B002,OTL02
+SH2087,Sri Om Kirana General Store,SE11,B735,B002,OTL02
+SH2088,Ananya Mini Mart,SE11,B735,B007,OTL02
+SH2089,Hyderabad Bake House Bakers Sweets,SE11,B1122,B001,OTL02
+SH2090,Mohammed Kirana General Store,SE11,B735,B002,OTL02
+SH2091,Happy Kirana General Store,SE11,B735,B002,OTL02
+SH2092,H H K G S,SE12,B1111,B002,OTL22
+SH2093,Sri Teja Kirana And General Store,SE13,B1125,B002,OTL02
+SH2094,Mallikarjuna Super Market,SE14,B745,B002,OTL22
+SH2095,Jvs Super Market,SE14,B1126,B007,OTL22
+SH2096,Kanaka Durga Super Market,SE12,B1127,B007,OTL22
+SH2097,Krishna Provision Store,SE15,B735,B002,OTL02
+SH2098,Sri Revathi K G S,SE12,B1067,B002,OTL19
+SH2099,Sri Venkateshwara Bangalore Iyengars Bakery,SE15,B735,B001,OTL02
+SH2100,Eco Garden Vegetables Kirana General Store,SE15,B735,B002,OTL02
+SH2101,Sai Nath Kirana General Store,SE15,B1128,B002,OTL02
+SH2102,Jai Sri Santoshi Matha Kirana General Store,SE15,B1128,B002,OTL02
+SH2103,Joy General Store,SE15,B735,B007,OTL02
+SH2104,Pooja Kirana Stor,SE14,B1129,B002,OTL18
+SH2105,S Mart Super Market,SE15,B735,B007,OTL02
+SH2106,Vijaya Lakshmi Provisional Store,SE12,B1067,B002,OTL19
+SH2107,Kareem Medical And General Stores,SE13,B1130,B003,OTL02
+SH2108,Abdul Gani Kirana General Store,SE15,B1128,B002,OTL02
+SH2109,Pandit Store,SE13,B1131,B009,OTL02
+SH2110,Hill Mart,SE15,B735,B007,OTL02
+SH2111,Sree Balaji Sai Ram Mithai Bhandhar,SE12,B1132,B001,OTL05
+SH2112,Charbhuja Kirana General Store,SE15,B1128,B002,OTL02
+SH2113,Natraj2 Kirana General Store,SE15,B1092,B002,OTL02
+SH2114,Uttam Nibbles,SE15,B735,B001,OTL02
+SH2115,Sri Ganesh Bakery,SE12,B1133,B001,OTL19
+SH2116,Sri Sai Manikanta Super Market,SE15,B735,B007,OTL02
+SH2117,Kesariya Kirana General Store,SE15,B735,B002,OTL02
+SH2118,S S R Bangalore Iyengar Bakery,SE15,B1134,B001,OTL01
+SH2119,S Mart ,SE15,B735,B007,OTL01
+SH2120,Sirimala Kirana And General Stores,SE13,B1135,B002,OTL02
+SH2121,Ganapthi Kirana General Store,SE15,B735,B002,OTL02
+SH2122,Kgn Kirana General Store,SE15,B1128,B002,OTL02
+SH2123,Lalitha Super Market,SE15,B1128,B007,OTL02
+SH2124,Pooja Kirana General Store,SE15,B1128,B002,OTL02
+SH2125,Jai Jagadamba Kirana General Store,SE14,B396,B002,OTL05
+SH2126,Sowjanya Kirana General Store,SE15,B735,B002,OTL02
+SH2127,Balaji Grand Bazaar,SE15,B1102,B007,OTL01
+SH2128,Henman Kirana Store,SE14,B1136,B002,OTL02
+SH2129,Burfi Ghar,SE15,B1137,B008,OTL01
+SH2130,Maa Ashapura Kirana General Store,SE14,B1138,B002,OTL22
+SH2131,Mounika Kirana General Store,SE14,B745,B002,OTL22
+SH2132,Maa Bhavani Kirana General Store,SE15,B1128,B002,OTL02
+SH2133,Santosh Kirana General Store,SE15,B1128,B002,OTL02
+SH2134,Friends Kirana General Store,SE15,B1128,B002,OTL02
+SH2135,New Lakshmi Kirana And General Stores,SE13,B1139,B002,OTL02
+SH2136,C Mart General Store,SE15,B735,B007,OTL06
+SH2137,Sai Lalitha Super Market,SE15,B735,B007,OTL02
+SH2138,Bhagavathi Kirana Store,SE14,B1140,B002,OTL18
+SH2139,Hanuman Kirana General Store,SE14,B1092,B002,OTL22
+SH2140,Kalyani Kirana General Store,SE15,B735,B002,OTL06
+SH2141,Pragathi Rythu Bazar,SE12,B1141,B002,OTL22
+SH2142,K V R Kirana General Store,SE12,B1133,B002,OTL19
+SH2143,M M Bakery,SE15,B1128,B001,OTL02
+SH2144,Sainath Kiran And General Stores,SE13,B1143,B002,OTL02
+SH2145,Sri Lakshmi Kirana And General Stores,SE13,B1143,B002,OTL02
+SH2146,New Shams Bakers,SE13,B1144,B001,OTL02
+SH2147,Hanuman Kirana And General Stores,SE13,B1145,B002,OTL02
+SH2148,Bake Central,SE13,B1146,B001,OTL02
+SH2149,Sri Balaji Pathanjali Store,SE14,B1092,B002,OTL22
+SH2150,Golden Groceries,SE15,B735,B007,OTL02
+SH2151,Saanvi Kirana General Store,SE15,B735,B002,OTL02
+SH2152,Naseeb Bakery,SE15,B1134,B001,OTL02
+SH2153,Sri Manjunadha Banglore Ayyangar Bakery,SE13,B1145,B001,OTL02
+SH2154,New Laxmi Kirana General Store,SE15,B1147,B002,OTL02
+SH2155,Sai Santoshi Bakery And Ice Cream Parlour,SE13,B1148,B001,OTL02
+SH2156,Sree Sai Brabhu Kirana General Store,SE15,B1149,B002,OTL01
+SH2157,7 Sanable Bakers,SE14,B744,B001,OTL22
+SH2158,Radha Kirana General Store,SE15,B735,B002,OTL02
+SH2159,Sri Lv Bangalore Iyyengar Bakery,SE13,B1146,B001,OTL02
+SH2160,Sei Meenakshi Kirana And General Stores,SE13,B1150,B002,OTL02
+SH2161,Sai Nutan General Stores,SE13,B1151,B002,OTL02
+SH2162,Matha Kirana And General Stores,SE13,B1139,B002,OTL02
+SH2163,Umar Kirana General Store,SE15,B1128,B002,OTL01
+SH2164,Sri Mathaji Kirana General Store,SE15,B1128,B002,OTL02
+SH2165,Divya Teja Sri Super Market,SE15,B735,B007,OTL06
+SH2166,Ravi Kirana General Store,SE15,B1128,B002,OTL02
+SH2167,Ammar Kirana General Store,SE15,B1152,B002,OTL02
+SH2168,Misore Bakery,SE14,B1138,B001,OTL22
+SH2169,Vijayalakshmi Kirana Store,SE12,B1066,B009,OTL02
+SH2170,Sai Datta Mini Super Market,SE15,B1128,B007,OTL02
+SH2171,Balaji Poonam Mitai Bandar,SE14,B745,B008,OTL22
+SH2172,Laxmi S Super Market,SE15,B1128,B007,OTL02
+SH2173,Ambica K G S,SE12,B1153,B002,OTL22
+SH2174,Mathaji K G S,SE12,B1067,B002,OTL22
+SH2175,Manasa Kirana General Store,SE15,B1128,B002,OTL02
+SH2176,Svs Bakers And Fastfood,SE14,B1126,B001,OTL22
+SH2177,Sri Veeranjaneya Kirana And General Stores,SE13,B1145,B002,OTL02
+SH2178,V L Collections,SE14,B736,B004,OTL22
+SH2179,Rajshree Food Mart,SE15,B1154,B007,OTL01
+SH2180,Varsha Kavya Kirana General Store,SE15,B1128,B002,OTL02
+SH2181,Fresh Natural Fruits Vegetables Market,SE15,B1152,B007,OTL02
+SH2182,Sai Raghavendra Kirana And General Stores,SE13,B1146,B002,OTL02
+SH2183,Famous Bakery And Cake House,SE13,B1155,B001,OTL02
+SH2184,Sri Tirumala Bangalore Bakery,SE13,B1156,B001,OTL02
+SH2185,Rv Bakers,SE14,B1157,B001,OTL22
+SH2186,Rr Grocery Mart,SE12,B1066,B002,OTL01
+SH2187,Sri Veeravenkata Sai Kirana General Store,SE15,B1128,B002,OTL02
+SH2188,Naveathan Kirana General Store,SE14,B736,B002,OTL22
+SH2189,Akila Kirana General Store,SE15,B1128,B002,OTL02
+SH2190,Sri Sai Veerabadra Kirana General Store,SE15,B1128,B002,OTL02
+SH2191,Shreya Kirana And General Store,SE13,B1158,B002,OTL02
+SH2192,Famous Bakery And Tea Stall,SE13,B1159,B001,OTL02
+SH2193,Bhavya Sri Bakers,SE13,B1160,B001,OTL01
+SH2194,Srinis Bakery,SE13,B1161,B001,OTL02
+SH2195,Sri Raja Rajeshwari K G S,SE12,B1141,B002,OTL22
+SH2196,Yans Super Market,SE13,B396,B007,OTL22
+SH2197,Shiva Keshava Super Market,SE13,B396,B007,OTL22
+SH2198,Slv Bakery,SE12,B1066,B001,OTL02
+SH2199,D S Traders Kirana General Store,SE15,B1128,B002,OTL02
+SH2200,Sai Sahasra K G S,SE12,B1141,B002,OTL22
+SH2201,Kgn Universal Bakery,SE13,B1155,B001,OTL01
+SH2202,Sri Renuka Kirana General Store,SE13,B396,B002,OTL22
+SH2203,Sai Shubham Kirana General Store,SE14,B736,B002,OTL22
+SH2204,Md Iqbal Cool Drinks,SE13,B1162,B006,OTL02
+SH2205,Snack Hub Bakers Confectioners,SE15,B1128,B001,OTL02
+SH2206,Vinayaka Kirana General Store,SE15,B1128,B002,OTL02
+SH2207,Bhagya Lakshmi Kirana And Genaral Stores,SE13,B1156,B002,OTL02
+SH2208,Rashmitha Kirana General Store,SE15,B1128,B002,OTL02
+SH2209,Mahalaxmi Super Market,SE14,B736,B007,OTL22
+SH2210,Raja Bakery,SE13,B1156,B001,OTL02
+SH2211,Jagadamba Kirana And General Store,SE13,B1161,B002,OTL02
+SH2212,Vinayaka 2 Kirana General Store,SE15,B1128,B002,OTL02
+SH2213,A K Enterprises Ice Cream Parlour,SE14,B736,B004,OTL22
+SH2214,A1 Kirana Kirana General Store,SE15,B1128,B002,OTL02
+SH2215,Icon Grocery Mart,SE12,B1066,B002,OTL02
+SH2216,Sri Sai Kirana And General Stores,SE13,B1164,B002,OTL02
+SH2217,Dhakshinya Super Market,SE12,B1066,B007,OTL02
+SH2218,Sri Trinadha Kirana And General Store,SE12,B1066,B002,OTL02
+SH2219,Sri Sai Lakshmi Kirana And General Stores,SE13,B1165,B002,OTL02
+SH2220,Jaya Laxmi Kirana General Store,SE14,B1128,B002,OTL02
+SH2221,Bhavani Kirana And General Store,SE12,B1141,B009,OTL01
+SH2222,Svsr Super Mart,SE12,B1066,B009,OTL02
+SH2223,Mahi Kirana Store,SE12,B1066,B009,OTL02
+SH2224,Bangalore Bakery,SE13,B735,B001,OTL02
+SH2225,Sri Lakshmi Narayasimha Kirana And General Store,SE12,B1066,B009,OTL02
+SH2226,Sri Sai Srinivasa Kirana And General,SE12,B1166,B009,OTL02
+SH2227,Grand Chocolate House,SE13,B1162,B001,OTL01
+SH2228,Sri Balaji Ganesh Mitai Bhandar,SE15,B1149,B008,OTL01
+SH2229,A To Z Mart,SE14,B1128,B002,OTL02
+SH2230,Balaji Ramdev Mithai Bhandar,SE13,B395,B008,OTL11
+SH2231,Shreeji Foods,SE12,B1066,B013,OTL02
+SH2232,Ss Traders,SE12,B1066,B002,OTL02
+SH2233,Sri Pranavi Medical And General Store,SE12,B1066,B003,OTL02
+SH2234,Meher Surya Chandra Kirana And Generalstore,SE14,B1168,B009,OTL02
+SH2235,Delhi Mitai Wala,SE14,B1128,B008,OTL02
+SH2236,V V R Mart,SE14,B1128,B002,OTL02
+SH2237,Ks Bakers,SE15,B1149,B001,OTL01
+SH2238,Anjani Putra Devlala Namkeen Cool Drinks,SE14,B1169,B006,OTL02
+SH2239,Jai Maa Bhagavti Kirana General Store,SE14,B1169,B002,OTL02
+SH2240,Visions Fresh Super Market,SE12,B1170,B002,OTL02
+SH2241,Maruthi Enterprise,SE13,B1171,B004,OTL02
+SH2242,Ns Bakers And Sweets,SE13,B1172,B001,OTL02
+SH2243,Karthikeya Kirana And General Store,SE13,B1173,B009,OTL15
+SH2244,City Bakery,SE15,B1149,B001,OTL01
+SH2245,Prabhu Krupa Kirana General Store,SE14,B1169,B002,OTL02
+SH2246,Pavan Medical And General Store,SE13,B1161,B003,OTL02
+SH2247,Adithya Products And Grocery,SE12,B1066,B002,OTL02
+SH2248,S K Bakers,SE13,B1175,B001,OTL19
+SH2249,Azeem Kirana General Store,SE14,B1128,B002,OTL02
+SH2250,Sri Vedha Kirana And General Stores,SE12,B1066,B009,OTL02
+SH2251,New Balaji Sweet House,SE13,B1175,B008,OTL10
+SH2252,Tharuni Supermarket,SE14,B1176,B002,OTL01
+SH2253,Bishnoi Kirana General Store,SE14,B1128,B002,OTL02
+SH2254,Sri Ram Kirana General Store,SE14,B1177,B002,OTL02
+SH2255,Shiv Kirana General Store,SE15,B1128,B002,OTL02
+SH2256,Ratna Agency,SE13,B1178,B002,OTL02
+SH2257,Sri Vijaya Laxmi Super Market,SE15,B1180,B007,OTL05
+SH2258,Maha Mudra Kirana And General Store,SE12,B1066,B002,OTL02
+SH2259,Sai Manikantha Super Market,SE13,B1068,B002,OTL02
+SH2260,Yellaiahah K G S,SE13,B1175,B002,OTL12
+SH2261,Sri Sainath Kirana General Store,SE15,B1149,B002,OTL01
+SH2262,Parampara The Mithai Shop,SE12,B1181,B008,OTL01
+SH2263,Aravind Kirana General Store,SE15,B1128,B002,OTL02
+SH2264,Pavitra,SE14,B1182,B009,OTL01
+SH2265,Sb Enterprise,SE13,B1183,B002,OTL02
+SH2266,Fresh Quality Fruit Vegetables Store,SE15,B1184,B002,OTL05
+SH2267,Nava Bharth Group,SE13,B1185,B009,OTL02
+SH2268,Dhathri Super Market,SE14,B1186,B005,OTL01
+SH2269,Sri Lv Bangalore Iyengar Bakery,SE13,B1183,B001,OTL02
+SH2270,Slv Banglor Iyyangar Bakery,SE14,B1187,B001,OTL01
+SH2271,Satvik Cool Drinks,SE13,B1066,B006,OTL18
+SH2272,Urbankisaan,SE14,B1068,B007,OTL18
+SH2273,Balaji Tejaram Mithai Bhandar,SE13,B1190,B008,OTL19
+SH2274,Rathnadhep,SE14,B1191,B010,OTL01
+SH2275,Mid Land Bakers,SE14,B1192,B001,OTL01
+SH2276,Sampoorna Supermarket ,SE14,B1193,B002,OTL01
+SH2277,Sanjay Kirana And General Store,SE13,B1194,B009,OTL02
+SH2278,Sri Sai Traders,SE14,B1128,B002,OTL02
+SH2279,Sri Biknar Mitai Wala,SE13,B1195,B001,OTL18
+SH2280,S V R Bakery,SE14,B1196,B001,OTL02
+SH2281,Sri Balaji Changanalal Mitai Bhandar,SE15,B1149,B008,OTL02
+SH2282,N N General Store,SE15,B1149,B009,OTL01
+SH2283,Karachi Bakery Cafe,SE15,B1149,B001,OTL01
+SH2284,Sri Balaji Grand Mart,SE14,B1128,B007,OTL02
+SH2285,Hussain Kirana General Store,SE14,B1128,B002,OTL02
+SH2286,Urban Super Mart,SE14,B1197,B009,OTL01
+SH2287,Jai Matha Kirana Store,SE14,B1136,B002,OTL02
+SH2288,Jahnavi Kirana General Store,SE14,B1128,B002,OTL02
+SH2289,Pire Nacher Store,SE14,B1199,B013,OTL10
+SH2290,Bajarangi Radhe Shyam Sweets Chat Juice,SE14,B1169,B008,OTL02
+SH2291,R K Store Food Court,SE13,B1178,B007,OTL02
+SH2292,Baba Ramdev Mithai Bandar,SE13,B1145,B008,OTL02
+SH2293,Aaryan Ram Mart ,SE15,B1200,B007,OTL05
+SH2294,Sampoorna Supermarket,SE14,B1201,B002,OTL01
+SH2295,Sri Muthiah Grand Bazaar Lankohil Kajaguda,SE14,B1191,B002,OTL01
+SH2296,Balaji Raja Kirana Store,SE14,B1140,B009,OTL05
+SH2297,Tempting Tarts Bakers,SE14,B1202,B001,OTL01
+SH2298,Testy King Bakers,SE13,B1203,B001,OTL18
+SH2299,Vasavi Mart,SE13,B1172,B009,OTL02
+SH2300,Bismilla Kirana And General Store,SE13,B1174,B009,OTL02
+SH2301,Sri Ram Store,SE13,B1172,B009,OTL02
+SH2302,Krishna Krupa Kirana And General Stores,SE13,B1204,B002,OTL02
+SH2303,Sri Aai Matha Kirana General Store,SE14,B1196,B002,OTL02
+SH2304,Neelam Store,SE13,B1178,B002,OTL02
+SH2305,Hanuman Kirana And General Store,SE13,B1066,B009,OTL18
+SH2306,Sakshi Kirana And General Store,SE13,B1207,B009,OTL15
+SH2307,Lakshmi Kirana And General Stores,SE13,B1124,B002,OTL02
+SH2308,Global Enterprises,SE12,B1208,B006,OTL01
+SH2309,Urban Supermart,SE14,B1202,B002,OTL01
+SH2310,Sahaja Kirana Shop,SE15,B1128,B002,OTL06
+SH2311,Premashwari Kirana,SE12,B1211,B002,OTL02
+SH2312,Navya Bakery,SE12,B1212,B001,OTL02
+SH2313,Nandini Bangalore Bakery,SE14,B1138,B001,OTL22
+SH2314,Shiva Supermarket,SE14,B1213,B002,OTL01
+SH2315,Sri Sai Durga Supermarket,SE13,B1145,B002,OTL02
+SH2316,B H Laskar Kirana General Store,SE15,B1128,B002,OTL02
+SH2317,Ssp Bakery,SE13,B1146,B001,OTL02
+SH2318,Sri Laxmi Scoop Parlour,SE15,B1152,B004,OTL02
+SH2319,Sree Deepika Grocery Kirana Services,SE12,B1066,B009,OTL02
+SH2320,Store 24,SE12,B1066,B002,OTL02
+SH2321,Krishna Prem Kirana And General Stores,SE13,B1118,B002,OTL02
+SH2322,Parameswar Kirana And General Stores,SE13,B1216,B009,OTL02
+SH2323,Vaishnavi Dairy Parlour And Bakery,SE13,B1174,B001,OTL18

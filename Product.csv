@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Product_Type,Product_Price_Per_Piece (In INR),Cost_Price
+D01,Hershey’s Milkshake,Dairy,60,40
+D02,Cavin’s Milkshake,Dairy,50,33
+D03,Winkin Cow Milkshake,Dairy,50,30
+D04,Packaged Curd,Dairy,100,54
+D06,Packaged Milk,Dairy,35,18
+D08,Butter,Dairy,75,43
+D09,Cheese,Dairy,40,30
+D08,Ice Cream,Dairy,160,130
+S1,Packaged Breads,Packaged Snack,65,35
+S2,Packaged Cakes,Packaged Snack,60,38
+B01,Carbonated Soft Drinks,Beverages,40,25
+B03,Fruit Drinks,Beverages,10,6
+D09,Flavored Milk Drinks,Dairy,70,48
+B04,Energy Drinks,Beverages,90,49
+B05,Ready To Drink Tea,Beverages,20,12
+B06,Ready To Drink Coffee,Beverages,30,19
+D10,Buttermilk ,Dairy,25,14
+B08,Non-alcoholic Beer,Beverages,80,65
+B09,Packaged Water,Beverages,15,11
+D11,Badam Milk,Dairy,30,21
